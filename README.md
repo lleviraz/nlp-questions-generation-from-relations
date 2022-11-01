@@ -2,12 +2,12 @@
 An NLP project: Questions generation from relations
 By: Gil Levy and Liad Levi-Raz
 
-# 1. How to run the code
+# How to run the code
 The code is provided as 3 Colab notebooks, Preprocessing NB, Simple Model NB and Enhanced Model NB.
 Basically you just open them in Colab and 'Run all' after obtaining the datasets.
 A GPU is needed for the Model notebooks
 
-# 2. Preprocessing NB
+# Preprocessing Notebook
 link: https://colab.research.google.com/drive/1xcy9zDnt28H4RVQpAU_73rPNCGjUKuBc?usp=sharing
 
 There is no need to run this NB, as the preprocessed datasets links were provided for each NB
@@ -15,7 +15,7 @@ There is no need to run this NB, as the preprocessed datasets links were provide
 to regiser to Google Cloud APIs for getting access to the Google Knowledge Graph API)
 
 
-# 3. Simple Question Generation NB
+# Simple Question Generation Notebook
 dataset: https://drive.google.com/drive/folders/10M0YgJ9-OOUsaC41JvxreJGs-JFqUM3n?usp=sharing
 link: https://colab.research.google.com/drive/1jSTHZSi58LfHC8eUpKPZ7PLIepsoH27y?usp=sharing
 
@@ -26,7 +26,7 @@ Download the dataset files, and upload them to Colab. The dataset files are expe
 
 Run the notebook - this will run a full training (if you wish to use our pretrained model please contact us)
 
-# 4. Enhanced Question Geneeration NB
+# Enhanced Question Geneeration Notebook
 dataset:https://drive.google.com/drive/folders/1og5PyaisweVKtx1UwVqURpsVs9yQLXPr?usp=sharing
 link: https://colab.research.google.com/drive/1QhCOJCHOlTRi6ncrY-orqYE1Qg4r-TG9?usp=sharing
 
