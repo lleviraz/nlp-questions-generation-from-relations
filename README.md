@@ -4,6 +4,14 @@ By: Gil Levy and Liad Levi-Raz
 
 NLP course final project in Reichman university 2022
 
+# Abstract
+
+Motivated by the paper “Supervised Relation Classification as Two-way Span-Prediction”  (https://arxiv.org/pdf/2010.04829.pdf) we propose a method to generate questions that represent different  relations in a sentence. This paper proposes an improved method for relation classification: The main idea is  introducing questions (one/few per relation) to a question / answer model and classifying the relation based  on the questions that lead to the correct answer. In case of many questions per relation and tie score between  number of correct answers any heuristics can be applied to classify the relation. The question generation is an  important building block of this architecture .A question represents a relation in a form that the answer is  either the subject entity or the object entity.
+
+![Project Architechture](arch.png)
+
+
+
 # How to run the code
 
 The code is provided as 3 Colab notebooks, Preprocessing NB, Simple Model NB and Enhanced Model NB.
