@@ -22,7 +22,7 @@ Basically you just open them in Colab and 'Run all' after obtaining the datasets
 
 # Preprocessing Notebook
 
-Colab link: https://colab.research.google.com/drive/1xcy9zDnt28H4RVQpAU_73rPNCGjUKuBc?usp=sharing
+[Preprocessing notebook](notebooks/Preprocessing_Simple_Questions_v2_Dataset_NLP_Final_Project.ipynb) or [Colab link](https://colab.research.google.com/drive/1xcy9zDnt28H4RVQpAU_73rPNCGjUKuBc?usp=sharing)
 
 There is no need to run this NB, as the preprocessed datasets links were provided for each NB
 
@@ -32,9 +32,9 @@ to regiser to Google Cloud APIs for getting access to the Google Knowledge Graph
 
 # Simple Question Generation Notebook
 
-Dataset: https://drive.google.com/drive/folders/10M0YgJ9-OOUsaC41JvxreJGs-JFqUM3n?usp=sharing (originally downloaded from huggingface)
+[Dataset](https://drive.google.com/drive/folders/10M0YgJ9-OOUsaC41JvxreJGs-JFqUM3n?usp=sharing) (14k records)
 
-Colab link: https://colab.research.google.com/drive/1jSTHZSi58LfHC8eUpKPZ7PLIepsoH27y?usp=sharing
+[Basic Questions Generation Model notebook](notebooks/BART_SimpleTransformers_NLP_Final_Project.ipynb) or [Colab link](https://colab.research.google.com/drive/1jSTHZSi58LfHC8eUpKPZ7PLIepsoH27y?usp=sharing)
 
 Download the dataset files, and upload them to Colab (using the file browser).
 
@@ -50,9 +50,9 @@ Run the notebook - this will run a full training (if you wish to use our pretrai
 
 # Enhanced Question Geneeration Notebook
 
-Preprocessed dataset:https://drive.google.com/drive/folders/1og5PyaisweVKtx1UwVqURpsVs9yQLXPr?usp=sharing
+[Preprocessed dataset](https://drive.google.com/drive/folders/1og5PyaisweVKtx1UwVqURpsVs9yQLXPr?usp=sharing)
 
-Colab link: https://colab.research.google.com/drive/1QhCOJCHOlTRi6ncrY-orqYE1Qg4r-TG9?usp=sharing
+[Enhanced Questions Generation Model notebook](notebooks/Enhanced_NER_BART_SimpleTransformers_NLP_Final_Project.ipynb) or [Colab link](https://colab.research.google.com/drive/1QhCOJCHOlTRi6ncrY-orqYE1Qg4r-TG9?usp=sharing)
 
 Download the dataset files, and upload them to Colab. The dataset files are expected to be under: 
 
