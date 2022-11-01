@@ -1,0 +1,1001 @@
+,input_text,target_text
+0,<se> Mysłakowo <rel> /location/location/containedby <oe>Lipno County,what county is  mysłakowo located in 
+1,<se> Old Harmony <rel> /location/location/containedby <oe>Etowah County,in which southern county is old harmony located
+2,<se> Grady Cooper <rel> /people/person/place_of_birth <oe>Raleigh,where did grady cooper's life begin
+3,<se> Heng Wu <rel> /people/person/profession <oe>Film director,What is Heng Wu's profession
+4,<se> Frederick Hastings Rindge House <rel> /architecture/structure/architectural_style <oe>Renaissance architecture,what is the type of architectural style of frederick hastings rindge house?
+5,<se> Waka/Jawaka <rel> /music/album/genre <oe>Big band,what kinds of music is waka/jawaka
+6,<se> Screenwriter <rel> /people/profession/people_with_this_profession <oe>Yohann Gloaguen,Name a screenwriter.
+7,<se> Plies <rel> /music/artist/track <oe>Model,What is the name of a track by plies
+8,<se> Sylvester Stallone <rel> /film/producer/film <oe>Homefront,which movie was produced by sylvester stallone
+9,<se> Sun <rel> /astronomy/orbital_relationship/orbited_by <oe>4290 Heisei,What's a body that orbit's the sun
+10,<se> United Kingdom <rel> /location/location/contains <oe>Portreath,what is a village found in the united kingdom
+11,<se> Memnon <rel> /biology/pedigreed_animal/breed <oe>Thoroughbred,Where was anna pavlova buried after death
+12,<se> The Bronx <rel> /location/location/people_born_here <oe>Dee Brown,who was born in the bronx?
+13,"<se> I, Robot <rel> /music/album/release_type <oe>Album","How was i, robot released"
+14,<se> Chris Chapman <rel> /base/rugby/rugby_player/type_of_rugby <oe>Rugby league,what type of rugby does chris chapman play 
+15,<se> Sun <rel> /astronomy/orbital_relationship/orbited_by <oe>(11226) 1999 JO36,What minor planet orbits the sun?
+16,<se> Pillars of Faith: Martyrs to Christianity <rel> /film/film/genre <oe>History,what type of movie is pillars of faith: martyrs to christianity?
+17,<se> Underdog <rel> /music/album/release_type <oe>Extended play,"What is the release type of the album ""Underdog""?"
+18,<se> Hawkes Harbor <rel> /book/book/genre <oe>Speculative fiction,what type of fiction is hawkes harbor
+19,<se> Wheel of Fortune <rel> /music/album/artist <oe>Kay Starr,Who released the album titled wheel of fortune
+20,<se> Film director <rel> /people/profession/people_with_this_profession <oe>Christopher McHallem,Name a film director
+21,<se> Sun <rel> /astronomy/orbital_relationship/orbited_by <oe>1689 Floris-Jan,"What is an asteroid, discovered in 1930, that orbits the sun?"
+22,<se> England <rel> /book/book_subject/works <oe>Quacks of Old London,what books are about england?
+23,<se> Cruzeiro Esporte Clube <rel> /sports/sports_team/location <oe>Belo Horizonte,Where does cruzeiro esporte clube play
+24,<se> Defender <rel> /soccer/football_position/players <oe>Denis Shchetkin,who is a defender in football
+25,<se> Karaj <rel> /location/location/people_born_here <oe>Amir Toodehroosta,who was born in karaj
+26,<se> Santa Claus Is Coming to Town <rel> /music/recording/canonical_version <oe>Santa Claus Is Coming To Town,what is the canonical version of the recording santa claus is coming to town
+27,<se> Breathe Carolina <rel> /music/artist/genre <oe>Techno,what genre does the artist breathe carolina play
+28,<se> Pitcher <rel> /baseball/baseball_position/players <oe>Ray Callahan,who played pitcher for the cincinatti reds baseball team?
+29,<se> Born <rel> /film/film/produced_by <oe>Clive Barker,who produced the movie born?
+30,<se> Cesare Canevari <rel> /people/person/nationality <oe>Kingdom of Italy,what is cesare canevari's nationality
+31,<se> The Trigger <rel> /book/book/genre <oe>Science fiction,what kind of book is the trigger
+32,<se> Sophie Reynaud <rel> /film/film_production_designer/films_production_designed <oe>All Is Forgiven,which movie is produced by sophie reynaud
+33,<se> Taj Mahal <rel> /music/artist/album <oe>Hidden Treasures of Taj Mahal,what albums did taj mahal record?
+34,<se> Aroostook County <rel> /location/location/contains <oe>Washburn,"which location is found in aroostook county, maine"
+35,<se> It Could Always Be Worse <rel> /book/written_work/original_language <oe>English language,what language describes it could always be worse
+36,<se> Vodka Factory <rel> /film/film/country <oe>Poland,what country did vodka factory originate from
+37,<se> Kylie Minogue <rel> /music/artist/album <oe>Confide in Me: The Remixes,which album is created by kylie minogue
+38,<se> Crow Foot <rel> /people/deceased_person/cause_of_death <oe>Murder,what was crow foot's cause of death
+39,<se> Alternative rock <rel> /music/genre/artists <oe>Akın Eldes,what artist plays alternative rock?
+40,<se> Sister Kenny <rel> /film/film/costume_design_by <oe>Travis Banton,who did the costume design for sister kenny?
+41,<se> Robert Halmi <rel> /film/producer/films_executive_produced <oe>Tin Man,What is a film that robert halmi executive produced?
+42,<se> Jeanie Bryson <rel> /music/artist/genre <oe>Pop music,what type of music does jeanie bryson play
+43,<se> Down for the Count <rel> /music/album/album_content_type <oe>Compilation album,What type of album is down for the count?
+44,<se> Compilation album <rel> /music/album_content_type/albums <oe>Now That's What I Call Music II,which album is a compilation album type
+45,<se> Mabruk <rel> /music/album/genre <oe>World music,what genre is the album mabruk?
+46,<se> Excalibur <rel> /music/single/versions <oe>Excalibur,What is a version of the single excalibur
+47,<se> Tarke <rel> /location/location/containedby <oe>United States,tarke is in what country?
+48,<se> Open Cam <rel> /film/film/genre <oe>LGBT,is open cam a drama or lgbt film
+49,<se> Flea <rel> /music/composer/compositions <oe>Soul to Squeeze,What song has flea written
+50,<se> West End <rel> /location/location/containedby <oe>Queensland,In what state is west end located?
+51,<se> Antioch Township <rel> /location/location/containedby <oe>United States,which country contains antioch township?
+52,<se> United States <rel> /location/location/contains <oe>Enosburg,Name a place within the united states
+53,<se> Henri de Toulouse-Lautrec <rel> /fictional_universe/fictional_character/occupation <oe>Artist,What is the occupation of fictional character toulouse-lautrec?
+54,<se> The Runaways <rel> /book/written_work/author <oe>Kristin Butcher,who is the author of the runaways
+55,<se> Vanja Radinović <rel> /people/person/nationality <oe>Serbia,What is vanja radinović's nationality
+56,<se> Straylight Studios <rel> /business/business_operation/industry <oe>Video game,what industry is the business straylight studios  in
+57,<se> Álvaro d'Ataide da Gama <rel> /people/person/gender <oe>Male,what is Álvaro dataide da gama
+58,<se> Preet Brar <rel> /music/artist/track <oe>Model,what is a song by preet brar
+59,<se> Fiction <rel> /media_common/literary_genre/books_in_this_genre <oe>From slave to soldier,what is a fictional book?
+60,<se> Auburn <rel> /location/location/containedby <oe>New Castle County,In which town is auburn located in?
+61,<se> Max Weber <rel> /book/written_work/subjects <oe>Social science,What is the subject of the book max weber?
+62,<se> RCA <rel> /music/record_label/artist <oe>Lena Horne,Who is an artist  signed by rca records?
+63,<se> Adisaya Suriyabha <rel> /people/person/parents <oe>Chulalongkorn,Who is a parent of adisaya suriyabha?
+64,<se> Frédéric Chopin <rel> /music/artist/album <oe>Cello Sonatas,What's an album by frédéric chopin
+65,<se> Chris Stamey <rel> /people/person/nationality <oe>United States,what is the nationality of chris stamey
+66,<se> United Kingdom <rel> /media_common/netflix_genre/titles <oe>Cold and Dark,What is a title you can expect to find in the Netflix genre united kingdom?
+67,<se> India <rel> /location/location/partially_contains <oe>Tinmatha Pillar Peak,what is partially contained in india?
+68,<se> Carmen Espinoza-Rodriquez <rel> /music/artist/genre <oe>Blues,What kind of music does carmen espinoza-rodriquez play
+69,<se> Cauthornville <rel> /location/location/containedby <oe>United States,What area is Cauthornville in?
+70,<se> Clement Fowler <rel> /people/person/profession <oe>Actor,how does clement fowler make a living
+71,<se> Aliens vs. Predator: Requiem <rel> /film/film/sequel <oe>Predators,what is the sequel to avpr: aliens vs predator - requiem?
+72,<se> Samuel Appleton <rel> /symbols/name_source/namesakes <oe>Appleton,Which city was a namesake to samuel appleton
+73,<se> Pop music <rel> /music/genre/artists <oe>Charlie Farren,who is a pop music artist?
+74,<se> Steven Blaney <rel> /people/person/gender <oe>Male,what gender is steven blaney?
+75,<se> Matthew Good Band <rel> /music/artist/origin <oe>Coquitlam,Where did matthew good band originate?
+76,<se> Pinon <rel> /location/location/containedby <oe>Navajo County,name a census-designated place 
+77,<se> Plymouth <rel> /location/location/containedby <oe>North Carolina,in which state is plymouth located
+78,<se> Minnesota <rel> /location/location/contains <oe>Rosby,What is the name of a town in minnesota?
+79,<se> West Point <rel> /location/location/containedby <oe>Tippecanoe County,what county is west point based in
+80,<se> Nebish Township <rel> /location/location/time_zones <oe>Central Time Zone,Which time zone is the nebish township in?
+81,<se> Brian O'Carroll <rel> /people/person/profession <oe>Cinematographer,what is brian o'carroll's profession
+82,<se> Nicomedes Santa Cruz <rel> /music/artist/origin <oe>Peru,which south american country is nicomedes santa cruz from
+83,<se> Why I Hate Women <rel> /music/album/release_type <oe>Album,what is the release type of the album why i hate women
+84,<se> Ted Henter <rel> /organization/organization_founder/organizations_founded <oe>Freedom Scientific,what organizations are ted henter the founder of
+85,<se> Russian Sign Language <rel> /language/human_language/region <oe>Europe,What region is russian sign language used in?
+86,<se> Dan Georgakas <rel> /people/person/gender <oe>Male,what gender is dan georgakas
+87,<se> Arms industry <rel> /film/film_subject/films <oe>Iron Man,what film is about the arms industry
+88,<se> Arnold Schoenberg <rel> /film/writer/film <oe>Moses and Aaron,arnold schoenberg wrote which film?
+89,<se> Taylor series <rel> /symbols/namesake/named_after <oe>Brook Taylor,taylor series was named after whom? 
+90,<se> Coldplay <rel> /music/artist/label <oe>EMI,What label is coldplay associated with?
+91,<se> Third Man Out <rel> /film/film/country <oe>Canada,what country in north america released the film  third man out
+92,<se> Robert Harris <rel> /people/person/place_of_birth <oe>Canada,where was robert harris (painter) born
+93,<se> Clint Johnson <rel> /people/person/nationality <oe>United States,What country is clint johnson from
+94,<se> Cinematographer <rel> /people/profession/people_with_this_profession <oe>Algimantas Mockus,Name a cinematographer
+95,<se> Stéphanie Colosse <rel> /music/artist/origin <oe>Fort-de-France,where did stephanie colosse originate from
+96,<se> Thriller <rel> /film/film_genre/films_in_this_genre <oe>Out 1,What film falls into the thriller (genre)?
+97,<se> Kenneth Tse <rel> /music/group_member/instruments_played <oe>Tenor saxophone,kenneth tse is known for playing was instrument
+98,<se> Councillor <rel> /government/government_office_or_title/governmental_body_if_any <oe>Isle of Wight Council,Whats a governmental body that includes a councillor 
+99,<se> Horse <rel> /biology/organism_classification/organisms_of_this_type <oe>Waquoit,Name an American Thoroughbread racehorse 
+100,<se> Emo <rel> /music/genre/artists <oe>Elliott,which artist creates  emo music
+101,<se> Might and Magic VII: For Blood and Honor <rel> /cvg/computer_videogame/publisher <oe>The 3DO Company,who is the publisher for the game might and magic vii: for blood and honor?
+102,<se> Klallam language <rel> /language/human_language/main_country <oe>Canada,what country is clallam language found
+103,<se> Staten Island Yankees <rel> /sports/sports_team/sport <oe>Baseball,Which sport does the staten island yankees play
+104,<se> Stuck in Love <rel> /film/film/executive_produced_by <oe>Eric Brenner,who was the executive producer of stuck in love
+105,<se> Self-Portrait in a Straw Hat <rel> /visual_art/artwork/media <oe>Oil paint,What type of media is the artwork self-portrait in a straw hat
+106,<se> When It's Over <rel> /film/film/genre <oe>Thriller,what film genre is when its over
+107,<se> Rock and roll <rel> /music/genre/artists <oe>Grainne Duffy,what artists are included when discussing rock and roll
+108,<se> The Paper Chase <rel> /music/artist/genre <oe>Noise rock,what genre is the paper chase (band) 
+109,<se> The Green Hills of Earth <rel> /book/written_work/subjects <oe>Adventure,what subject is the green hills of earth about?
+110,<se> Who Wants to Live Forever <rel> /music/recording/producer <oe>David Richards,who is the producer of who wants to live forever
+111,<se> Spirits of Place <rel> /book/written_work/subjects <oe>Great Britain,what is a subject in spirits of place
+112,<se> D'scover <rel> /music/album/genre <oe>Alternative rock,what rock genre does dscover fall under
+113,<se> Saint Judas <rel> /music/recording/producer <oe>Natalie Merchant,Who produced saint judas?
+114,<se> Piano <rel> /music/instrument/instrumentalists <oe>Ary Barroso,who played piano in brazil
+115,<se> Possession <rel> /book/written_work/author <oe>A. S. Byatt,who authored possession: a romance
+116,<se> Asterix and the Great Rescue <rel> /cvg/computer_videogame/developer <oe>Core Design,which developer designed asterix and the great rescue
+117,"<se> George Miller <rel> /film/director/film <oe>Violence in the Cinema, Part 1",what film did george miller direct
+118,<se> Roman emperor <rel> /user/robert/roman_empire/roman_emperor_title/emperors_with_this_title <oe>Marcian,who has the title roman emperor
+119,<se> Rumor Has It <rel> /music/album/artist <oe>Clay Walker,who was the artist that recorded the album rumor has it
+120,<se> Compilation album <rel> /music/album_content_type/albums <oe>Karl Böhm Conducts Mozart and Strauss,what is the name of a compilation album made in 2005
+121,<se> The Grandest Fleet <rel> /cvg/computer_videogame/cvg_genre <oe>Strategy video game,what type of game is the grandest fleet
+122,<se> Lexie Grey <rel> /fictional_universe/fictional_character/gender <oe>Female,What gender is lexie grey
+123,<se> Stockholm Arlanda Airport <rel> /aviation/airport/hub_for <oe>Norwegian Air Shuttle,What is a hub for stockholm-arlanda airport?
+124,<se> Nacer Barazite <rel> /soccer/football_player/position_s <oe>Forward,which soccer position is played by nacer barazite
+125,<se> Organizing Dixie <rel> /book/written_work/subjects <oe>Economic history,what is the topic of the written piece organizing dixie
+126,<se> David Thompson Secondary School <rel> /education/educational_institution/school_type <oe>Secondary school,What type of school is the david thompson secondary school
+127,<se> Evil Always Ends <rel> /book/book/genre <oe>Detective fiction,in what genre was the book evil always ends written
+128,<se> Jeff Blauser <rel> /baseball/baseball_player/position_s <oe>Shortstop,What position did jeff blauser play?
+129,<se> Worse Than War <rel> /film/film/country <oe>United States,which country released worse than war 
+130,<se> Devadatta <rel> /people/person/religion <oe>Buddhism,What religion does devadatta subscribe to
+131,<se> 1962 Stanley Cup Finals <rel> /sports/sports_championship_event/runner_up <oe>Chicago Blackhawks,who was the runner up at the 1962 stanley cup finals
+132,<se> Pingtung City <rel> /location/location/people_born_here <oe>Che-Wei Lin,Name someone born in pingtung city.
+133,<se> Play Hard <rel> /music/recording/featured_artists <oe>Akon,which artist is featured on play hard
+134,<se> Plex <rel> /computer/software/software_genre <oe>Media player software,what software genre is plex
+135,<se> The Mr. Men Show <rel> /tv/tv_program/languages <oe>English language,What language is the mr. men show available in
+136,<se> Poetry <rel> /media_common/literary_genre/books_in_this_genre <oe>Poems,what is the name of a poetry book
+137,<se> Ray Charles <rel> /music/artist/label <oe>Atlantic Records,Who signed ray charles
+138,<se> Peru <rel> /location/location/contains <oe>Bromley Mountain,Which mountain is located in peru?
+139,<se> Donna on Demand <rel> /film/film/genre <oe>Thriller,what genre of film is donna on demand?
+140,<se> Montmartre <rel> /music/album/artist <oe>Django Reinhardt,who made the album montmartre
+141,<se> River Trent <rel> /geography/river/cities <oe>Burton upon Trent,this city straddles the river trent.
+142,<se> Albert Odyssey <rel> /cvg/computer_videogame/developer <oe>Sunsoft,who developed albert odyssey
+143,<se> 9812 Danco <rel> /astronomy/asteroid/member_of_asteroid_group <oe>Asteroid belt,The asteroid 9812 danco can be found where?
+144,<se> Sakura Sakurada <rel> /base/adultentertainment/adult_entertainer/sexual_orientation <oe>Heterosexuality,what is sakura sakurada's sexual orientation 
+145,<se> The Wheels of Chance <rel> /book/book/genre <oe>Science fiction,Which genre of book is the wheels of chance?
+146,<se> Matt Stone <rel> /fictional_universe/fictional_character_creator/fictional_characters_created <oe>Mr. Garrison,who is created by matt stone
+147,<se> The Great Train Robbery <rel> /music/album/artist <oe>Jerry Goldsmith,the great train robbery is by who
+148,<se> Kelvin Grove State College <rel> /education/educational_institution/colors <oe>Green,what's the school colors of kelvin grove state college
+149,<se> Simone Dallamano <rel> /people/person/place_of_birth <oe>Brescia,Where was simone dallamano born?
+150,<se> Double Trouble Live <rel> /music/album/release_type <oe>Album,what is the release format of double trouble live
+151,<se> Glenn Heywood <rel> /martial_arts/martial_artist/martial_art <oe>Sumo,what type of martial art does glenn heywood  practice
+152,<se> Karakachan <rel> /biology/animal_breed/breed_of <oe>Dog,what type of animal breed is a karakachan dog?
+153,<se> Nesterov <rel> /location/location/people_born_here <oe>Oscar Werwath,Who is someone that was born in nesterov?
+154,<se> Brazil <rel> /location/country/second_level_divisions <oe>Conselheiro Pena,what is the second level division of brazil?
+155,<se> White people <rel> /fictional_universe/ethnicity_in_fiction/characters_of_this_ethnicity <oe>John Sheridan,who is of caucasian race in babylon 5
+156,<se> Hell Baby <rel> /film/film/produced_by <oe>Robert Ben Garant,who produced the film hell baby?
+157,<se> The Unquiet Grave <rel> /book/written_work/author <oe>August Derleth,who is the author of the written work the unquiet grave
+158,<se> Thy Disease <rel> /music/artist/genre <oe>Industrial metal,what is the genre of the artist thy disease
+159,<se> Painting <rel> /visual_art/visual_art_form/artworks <oe>Portrait of a Woman,What's an example of a painting
+160,<se> Sébastien Ménestrier <rel> /people/person/gender <oe>Male,What is sébastien menestrier's gender?
+161,<se> Toronto <rel> /location/location/people_born_here <oe>Busher Jackson,who was born in toronto?
+162,<se> Unmade Beds <rel> /film/film/produced_by <oe>Soledad Gatti-Pascual,Who produced the film unmade beds?
+163,<se> Battle of Cheat Mountain <rel> /time/event/locations <oe>Virginia,where did the battle of cheat mountain  take place
+164,<se> Literature <rel> /book/book_subject/works <oe>A Pocket Full of Rye,Name a piece of literature. 
+165,<se> Santa Claus Is Comin To Town <rel> /music/recording/song <oe>Santa Claus Is Comin' to Town,what is a song on the recording santa claus is comin to town
+166,<se> The Pulse EPs <rel> /music/album/genre <oe>Acid house,what type of music is the pulse eps
+167,<se> Shire of Aramac <rel> /location/location/containedby <oe>Queensland,which austrailian state is shire of aramac in
+168,<se> Margaret of England <rel> /people/person/parents <oe>Henry III of England,who are the parents of margaret of england?
+169,<se> Charles Vanel <rel> /people/person/place_of_birth <oe>Rennes,where was charles vanel born
+170,<se> Robert Brasillach <rel> /people/deceased_person/place_of_death <oe>Montrouge,what parisian suburb did robert brasillach  die in
+171,<se> O.S.T. <rel> /music/album/genre <oe>Underground hip hop,what genre is the album o.s.t.
+172,<se> Andreas Menger <rel> /soccer/football_player/position_s <oe>Goalkeeper,what position does andreas menger play in football 
+173,<se> Quartet Live <rel> /music/album/artist <oe>Pat Metheny,who is the artist of the album quartet live
+174,<se> Canada <rel> /book/book_subject/works <oe>Roses for Mama,What is a book that is about canada
+175,<se> Action game <rel> /cvg/cvg_genre/games <oe>Neopets: Petpet Adventures: The Wand of Wishing,what is a 2006 action game
+176,<se> David Daker <rel> /people/person/place_of_birth <oe>Bilston,where was david daker born
+177,<se> Science fiction <rel> /film/film_genre/films_in_this_genre <oe>Godzilla: Tokyo S.O.S.,What's a science fiction movie featuring godzilla
+178,<se> Instrumental rock <rel> /music/genre/subgenre <oe>Post-rock,which genre does instrumental rock affiliate with
+179,<se> Solar System <rel> /astronomy/star_system/planetary_system <oe>3096 Bezruč,what is the planetary system located in the solar system?
+180,<se> Mircea Oltean <rel> /people/person/nationality <oe>Romania,where does mircea oltean come from
+181,<se> Routes to Riches <rel> /music/album/genre <oe>Funk,is routes to riches a funk or edm album
+182,<se> Boston <rel> /location/location/people_born_here <oe>Arthur Fiedler,Who is a person born in boston
+183,<se> Wynyard <rel> /location/location/containedby <oe>Canada,in which area is wynyard located
+184,<se> Edgar Johan Kuusik <rel> /people/deceased_person/place_of_death <oe>Tallinn,where did edgar johan kuusik die
+185,<se> Get in Where You Fit In <rel> /music/album/release_type <oe>Album,Is get in where you fit in a dvd or an album
+186,<se> The Ballad of Soup Du Jour <rel> /film/film/country <oe>United States,what is the country of origin of the ballad of soup du jour
+187,<se> Houghton County <rel> /location/location/contains <oe>Wolverine,"what can be found in houghton county, michigan"
+188,<se> Paul Dukas <rel> /music/composer/compositions <oe>La Péri,what is a composition from paul dukas?
+189,<se> Showgirls 2: Penny's from Heaven <rel> /film/film/language <oe>English language,what language is showgirls 2: pennys from heaven in?
+190,<se> Aerius of Sebaste <rel> /people/person/gender <oe>Male,is aerius of sebaste male or female?
+191,<se> Anna Campion <rel> /people/person/nationality <oe>New Zealand,from what european country is anna campion from
+192,<se> Tronador <rel> /geography/mountain/mountain_type <oe>Volcano,what type of mountain is tronador
+193,<se> Felix Weltsch <rel> /people/deceased_person/place_of_death <oe>Jerusalem,Where did felix weltsch die?
+194,<se> Queen Anne style architecture <rel> /architecture/architectural_style/examples <oe>W C A Boarding House,What's a building designed in queen anne style architecture
+195,<se> Physics <rel> /book/periodical_subject/periodicals <oe>The Astronomical Journal,what is the name of a periodical about physics
+196,<se> Aranmula Ponnamma <rel> /people/deceased_person/place_of_death <oe>Thiruvananthapuram,Where did aranmula ponnamma die
+197,<se> Don Page <rel> /people/person/gender <oe>Male,what is don page's gender?
+198,<se> Georgia <rel> /location/location/contains <oe>Birmingham,What's a city in georgia (u.s. state)
+199,<se> Anatomy of Deception <rel> /film/film/language <oe>English language,which language is primarily used in anatomy of deception
+200,<se> Copenhagen <rel> /film/film/costume_design_by <oe>Sarah Moore,who designed the costume for the movie copenhagen
+201,<se> Andy Russell <rel> /music/artist/label <oe>RCA Records,What label is andy russell under
+202,<se> Two Forty Eight <rel> /music/album/genre <oe>Indie rock,The album two forty eight is classified within what genre?
+203,<se> Yann Songo'o <rel> /people/person/nationality <oe>Cameroon,what is the nation to which yann songoo belongs
+204,<se> Doraemon TV Soundtrack Collection <rel> /music/album/album_content_type <oe>Soundtrack,what kind of album is doraemon tv soundtrack collection released in?
+205,<se> Auckland <rel> /location/location/people_born_here <oe>Linda Vagana,which woman was born in auckland?
+206,"<se> Words that hurt, words that heal <rel> /book/written_work/subjects <oe>Religion","What is the subject of words that hurt, words that heal?"
+207,<se> Stephen Porter <rel> /theater/theater_director/plays_directed <oe>Major Barbara,What is the name of a play that stephen porter directed?
+208,<se> Altered Beast <rel> /cvg/computer_videogame/designers <oe>Rieko Kodama,who is the creator of the altered beast game
+209,<se> Ivan Maric <rel> /people/person/gender <oe>Male,what is ivan maric's gender
+210,<se> David Pingree <rel> /people/deceased_person/place_of_death <oe>Providence,where did david pingree die?
+211,<se> Traitor <rel> /film/film/production_companies <oe>Mandeville Films,which company produced traitor?
+212,<se> VII Photo Agency <rel> /organization/organization/founders <oe>Ron Haviv,who was a founder of vii photo agency
+213,<se> Generals <rel> /book/written_work/subjects <oe>Military branch,What is the subject of the book titled generals
+214,<se> William Schwenck Gilbert <rel> /music/artist/album <oe>Gondoliers,Name an album by william schwenck gilbert.
+215,<se> Anemia <rel> /film/film/music <oe>Lorenzo Ferrero,which musician participated in the film anemia
+216,<se> Monster-in-Law <rel> /film/film/produced_by <oe>J. C. Spink,Who produced monster-in-law
+217,<se> Honey (So So Def mix) <rel> /music/recording/artist <oe>Mariah Carey,who was the artist of honey (so so def mix)
+218,<se> Max Payne <rel> /cvg/computer_videogame/gameplay_modes <oe>Single-player video game,what gameplay mode can max payne be played in 
+219,<se> New York <rel> /location/place_with_neighborhoods/neighborhoods <oe>Fort Wadsworth,what neighborhood is located in new york city
+220,<se> Duke Nukem: Land of the Babes <rel> /cvg/computer_videogame/game_series <oe>Duke Nukem,What series is duke nukem: land of the babes a part of
+221,<se> Defender <rel> /soccer/football_position/players <oe>Geoff Palmer,Which former football player played defender?
+222,<se> Skopje <rel> /location/location/nearby_airports <oe>Skopje International Airport,what is an airport close to skopje
+223,<se> Dženan Radončić <rel> /people/person/nationality <oe>Montenegro,What country is dženan radončić from
+224,<se> Hold That Lion! <rel> /film/film/language <oe>English language,What language was hold that lion! filmed in?
+225,<se> Steinbrüchel <rel> /music/artist/track <oe>Berlin,what track is from steinbrüchel
+226,<se> Gábor A. Somorjai <rel> /people/person/place_of_birth <oe>Budapest,where did gabor a. somorjai's life start
+227,<se> Physician <rel> /fictional_universe/character_occupation/characters_with_this_occupation <oe>Maggie Burroughs,who is a fictional character whose occupation was a  physician
+228,<se> Old Indian legends <rel> /book/written_work/subjects <oe>Native Americans in the United States,what is the subject of the written work  old indian legends
+229,<se> Himalayas <rel> /common/topic/subject_of <oe>The Highest Pass,What is a part of the  himalayas
+230,<se> Angkor Wat <rel> /film/film_location/featured_in_films <oe>In the Mood for Love,what film is filmed in angkor wat?
+231,<se> Sana Saeed <rel> /people/person/nationality <oe>India,What is sana saeed's nationality
+232,<se> King Crimson <rel> /music/artist/album <oe>VROOOM VROOOM,what's one of the names of king crimson's album
+233,<se> Along the Roaring River <rel> /book/written_work/original_language <oe>English language,which language is spoken in along the roaring river
+234,<se> Günter Grass <rel> /influence/influence_node/influenced <oe>José Saramago,whom did gunter grass influence
+235,<se> Elroy Schwartz <rel> /people/person/gender <oe>Male,what gender does elroy schwartz identify as?
+236,<se> Marwan al-Shehhi <rel> /people/deceased_person/place_of_death <oe>Manhattan,where was the death place of marwan al-shehhi
+237,<se> Nguyễn Văn Kiệt <rel> /people/person/nationality <oe>United States,What is the nationality of nguyễn văn kiệt
+238,<se> Italian cuisine <rel> /book/book_subject/works <oe>Italian Farmhouse Cookbook,What's a book written about italian cuisine
+239,<se> Operation Vigilant Sentinel <rel> /base/culturalevent/event/entity_involved <oe>United States,Where did operation vigilant sentinel take place?
+240,<se> Twin telepathy <rel> /book/book/genre <oe>Psychology,What genre is the book twin telepathy
+241,<se> La Shawn Ford <rel> /people/person/gender <oe>Male,Is la shawn k. ford a man or woman
+242,<se> Team Penske <rel> /base/nascar/nascar_racing_organization/drivers <oe>Sam Hornish Jr.,Who is a driver for penske racing?
+243,<se> Capital Lights <rel> /music/artist/genre <oe>Christian rock,what types of music is played by capitallights
+244,<se> 10864 Yamagatashi <rel> /astronomy/orbital_relationship/orbits <oe>Sun,around which main star does 10864 yamagatashi move
+245,<se> WVXR <rel> /broadcast/radio_station/owner <oe>iHeartMedia,who is the owner of wvxr
+246,<se> Eaton Corners <rel> /location/location/containedby <oe>United States,which country is eaton corners in 
+247,<se> Cousin Wilbur <rel> /film/film/genre <oe>Black and white,What is the genre of the movie cousin wilbur?
+248,<se> Wine Colored Roses <rel> /music/album/artist <oe>George Jones,who released the album wine colored roses
+249,<se> Felix Gilman <rel> /people/person/gender <oe>Male,is felix gilman a male or a female 
+250,<se> Gregory Berkin <rel> /people/person/profession <oe>Film director,what's gregory berkin's profession
+251,<se> Night Lights <rel> /music/album/artist <oe>Punchline,Which artist performed on the album night lights?
+252,<se> The Dewarists <rel> /tv/tv_program/genre <oe>Reality television,What is the genre of the program the dewarists
+253,<se> WLCL <rel> /broadcast/radio_station/serves_area <oe>Louisville,what area can listen to the station wayi
+254,<se> Twenty Years After <rel> /book/written_work/subjects <oe>History,What is the main subject of the book titled twenty years after
+255,<se> Mother India <rel> /film/film/written_by <oe>Wajahat Mirza,who wrote mother india?
+256,<se> Born Diva <rel> /tv/tv_program/genre <oe>Lifestyle,what kinds of tv program is born diva
+257,<se> Diner <rel> /music/album/album_content_type <oe>Soundtrack,What kind of an album is diner
+258,<se> New England Patriots <rel> /sports/sports_team/championships <oe>2002 AFC Championship Game,what championship did new england patriots win?
+259,<se> World music <rel> /music/genre/artists <oe>Ella Leya,which artist performs the world music genre
+260,<se> 2932 Kempchinsky <rel> /astronomy/astronomical_discovery/discoverer <oe>Carolyn S. Shoemaker,what female astronomer did discover 2932 kempchinsky
+261,<se> NDTV <rel> /organization/organization/founders <oe>Prannoy Roy,what's the name of a founder of ndtv
+262,<se> 21250 Kamikouchi <rel> /astronomy/orbital_relationship/orbits <oe>Sun,What celestial body does 21250 kamikouchi orbit
+263,<se> Prince Valiant <rel> /fictional_universe/fictional_character/occupation <oe>Crown prince,what is the occupation of prince valiant?
+264,<se> Dave Rees <rel> /music/artist/genre <oe>Alternative rock,what type of music does dave rees make 
+265,<se> Leif Enger <rel> /book/author/works_written <oe>Peace Like a River,what novels did leif enger write?
+266,<se> American Poet <rel> /music/album/release_type <oe>Album,Which release type was american poet released as
+267,<se> Don McLean <rel> /music/artist/label <oe>EMI America Records,which label is don mclean signed under
+268,<se> Polynesian languages <rel> /language/language_family/languages <oe>Cook Islands Māori,What language is in the language family polynesian languages?
+269,<se> Goodnight Lovers <rel> /music/composition/language <oe>English language,what language is goodnight lovers in
+270,<se> Weeksville <rel> /location/neighborhood/neighborhood_of <oe>New York,"which city houses the neighborhood weeksville, brooklyn"
+271,<se> Lonesome Luke Lolls in Luxury <rel> /film/film/country <oe>United States,which country was lonesome luke lolls in luxury filmed
+272,<se> Kachi Koli language <rel> /language/human_language/main_country <oe>Pakistan,"which country's main language is the koli, kachi language"
+273,<se> Middle Earth Masters <rel> /music/album/release_type <oe>Album,What is the release type of the album middle earth masters?
+274,<se> Asteroid <rel> /astronomy/celestial_object_category/objects <oe>11328 Mariotozzi,which asteroid was names after an italian geologist?
+275,<se> Fataleka language <rel> /language/human_language/main_country <oe>Solomon Islands,where is fataleka language spoken at?
+276,<se> The Lost Tape <rel> /film/film/country <oe>India,which country did the lost tape originate from
+277,<se> Rick Atkinson <rel> /book/author/works_written <oe>In the Company of Soldiers,what's one of the books written by rick atkinson
+278,<se> R Aquarii <rel> /astronomy/star/constellation <oe>Aquarius,which constellation is the r aquarii found in 
+279,<se> Best of KAT-TUN <rel> /music/album/genre <oe>J-pop,what musical genre is the album best of kat-tun
+280,<se> João Silva <rel> /visual_art/visual_artist/art_forms <oe>Photography,what form of art does joão silva make?
+281,<se> Charlie Russell <rel> /people/person/gender <oe>Male,is charlie russell male or female
+282,<se> Simon Fawcett <rel> /film/producer/films_executive_produced <oe>The Secret of Moonacre,which film did simon fawcett produce
+283,<se> The Old Army Game <rel> /film/film/country <oe>United States,Which country created the film the old army game
+284,<se> Compilation album <rel> /music/album_content_type/albums <oe>Ruby Trax,What is the name of a compilation album?
+285,<se> Tracy Wright <rel> /people/person/gender <oe>Female,what gender is  tracy wright
+286,<se> Dream House Acres <rel> /location/location/containedby <oe>Arapahoe County,Where is dream house acres within the united states
+287,<se> Eisley <rel> /symbols/namesake/named_after <oe>Mos Eisley,who's a person named after eisley?
+288,<se> Tower of London <rel> /music/recording/artist <oe>Tony MacAlpine,who recorded the tower of london
+289,<se> Manje' <rel> /film/film/country <oe>United States,what country is manje' from?
+290,<se> Apsley House <rel> /architecture/structure/architectural_style <oe>Neoclassical architecture,what is the architectural style of the apsley house?
+291,<se> Valentyn Slyusar <rel> /people/person/gender <oe>Male,is valentyn slyusar a male or female
+292,<se> Thriller <rel> /media_common/netflix_genre/titles <oe>Almost Human,what is the  name of a movie title that is classified as a thriller (genre)
+293,<se> Reed Luplau <rel> /people/person/gender <oe>Male,What is the gender of reed luplau
+294,<se> Naanal <rel> /film/film/directed_by <oe>K. Balachander,who directed the movie naanal
+295,"<se> Two Women Beside a Linen Chest, with a Child <rel> /visual_art/artwork/artist <oe>Pieter de Hooch",Which artist created at the linen closet?
+296,<se> Television <rel> /media_common/netflix_genre/titles <oe>Gene Simmons Family Jewels,Name a television Netflix genre.
+297,<se> Menace <rel> /film/film/genre <oe>Thriller,What type of film is menace
+298,<se> Owl and the Sparrow <rel> /film/film/country <oe>United States,In what country was owl and the sparrow shot?
+299,<se> He Kaw Teh v The Queen <rel> /law/legal_case/court <oe>High Court of Australia,which court did he kaw teh v r take place in
+300,<se> Denver <rel> /location/location/people_born_here <oe>Joe Filippone,"which actor was born in denver, colorado?"
+301,<se> Cotton Valley <rel> /location/location/containedby <oe>Louisiana,what state is cotton valley in
+302,"<se> Alife, Campania <rel> /location/location/containedby <oe>Province of Caserta","alife, campania is contained by what province"
+303,<se> Hard Times <rel> /music/recording/artist <oe>John Legend,which artist recorded hard times
+304,<se> Pecos National Historical Park <rel> /protected_sites/protected_site/governing_body <oe>National Park Service,what organization is in charge of pecos national historical park?
+305,<se> Forum <rel> /music/album/genre <oe>Power pop,is forum power pop or rock
+306,<se> Anadolu University <rel> /location/location/containedby <oe>Turkey,where is anadolu university located?
+307,<se> Joan Brown <rel> /visual_art/visual_artist/associated_periods_or_movements <oe>Modern art,what art period was joan brown active in?
+308,<se> The Silence of the Lambs <rel> /book/written_work/author <oe>Thomas Harris,who wrote the book the silence of the lambs
+309,<se> Alraune <rel> /film/film/language <oe>German language,alraune is in what language 
+310,<se> Otto Nückel <rel> /people/deceased_person/place_of_death <oe>Cologne,where did otto nückel die
+311,<se> Melinda Clarke <rel> /people/person/ethnicity <oe>White people,What race is melinda clarke?
+312,<se> Giacomo Puccini <rel> /music/artist/genre <oe>Classical music,does giacomo puccini play classical music or pop
+313,<se> Dundalk High School <rel> /education/educational_institution/colors <oe>Green,What is the official school color of dundalk high school?
+314,<se> Run Like Hell <rel> /cvg/computer_videogame/publisher <oe>Capcom,Who published run like hell
+315,<se> Cumberland Presbyterian Church <rel> /location/location/containedby <oe>Peoria,where is cumberland presbyterian church 
+316,<se> Gran Turismo 5 <rel> /cvg/computer_videogame/gameplay_modes <oe>Multiplayer video game,What is a gameplay mode that can be played in gran turismo 5
+317,<se> Drum <rel> /music/instrument/instrumentalists <oe>Ned Brower,who played the drum  in the Los Angeles rock quintet Rooney
+318,<se> Comedy drama <rel> /film/film_genre/films_in_this_genre <oe>Love in a Goldfish Bowl,which movie is comedy-drama
+319,<se> Paolo Acerbis <rel> /soccer/football_player/position_s <oe>Goalkeeper,Which position in football does paolo acerbis play
+320,<se> Daniele Sepe <rel> /people/person/place_of_birth <oe>Naples,Where was daniele sepe born?
+321,<se> Sid Sings <rel> /music/album/genre <oe>Punk rock,What genre is the album sid sings considered to be?
+322,<se> The wonder of boys <rel> /book/written_work/subjects <oe>Child development,Which subject is  the book the wonder of boys?
+323,<se> David Dodge <rel> /people/person/place_of_birth <oe>Berkeley,which bay area city was david f. dodge born in 
+324,<se> SkyTeam <rel> /aviation/airline_alliance/member_airlines <oe>KLM Cityhopper,with what member airline does skyteam have an alliance?
+325,<se> Amy Jenkins <rel> /people/person/nationality <oe>United Kingdom,What is the nationality of amy jenkins?
+326,<se> Rutger Castricum <rel> /people/person/place_of_birth <oe>The Hague,where is rutger castricum's place of birth
+327,<se> Liquor <rel> /book/written_work/author <oe>Poppy Z. Brite,what author wrote the book Liquor?
+328,<se> Slicked-up Pup <rel> /film/film/language <oe>English language,what language is spoken in the movie slicked-up pup
+329,<se> Al Wickland <rel> /people/person/place_of_birth <oe>Chicago,Which city was al wickland born
+330,<se> San Giovanni in Persiceto <rel> /location/location/containedby <oe>Italy,Where is san giovanni in persiceto located?
+331,<se> She Goes to War <rel> /film/film/written_by <oe>Howard Estabrook,who wrote the film she goes to war?
+332,<se> Desert of Fire <rel> /film/film/country <oe>Germany,what country is the film desert of fire from?
+333,<se> Casablanca Records <rel> /music/record_label/artist <oe>Brooklyn Dreams,Who's a musician working with casablanca records
+334,<se> Eat Pray Love <rel> /film/film/music <oe>Dario Marianelli,who composed the music for eat pray love
+335,<se> Barry Brown <rel> /music/artist/track <oe>Politician,what is the title of a track by barry brown
+336,<se> Anson Downes <rel> /people/person/gender <oe>Male,is anson downes male or female
+337,<se> Daniëlle Harmsen <rel> /people/person/place_of_birth <oe>Velsen,Where was daniëlle harmsen born
+338,<se> Li Shuangjiang <rel> /people/person/place_of_birth <oe>Harbin,where was li shuangjiang given birth
+339,<se> The Sicilian Girl <rel> /film/film/country <oe>Italy,What is the the sicilian girl's country of origin
+340,<se> Michiyo Ōkusu <rel> /people/person/gender <oe>Female,What is Michiyo Okusu's gender?
+341,<se> Jane Allen <rel> /people/deceased_person/place_of_death <oe>Santa Monica,Where did jane allen die?
+342,<se> United States <rel> /location/location/contains <oe>Cash,what are cities in united states
+343,<se> Shana Haji <rel> /people/person/place_of_birth <oe>Bolton,where was shana haji born?
+344,<se> Vision Racing Driving Simulator <rel> /cvg/computer_videogame/cvg_genre <oe>Racing game,what kind of game is vision racing driving simulator?
+345,<se> Bill Groom <rel> /film/film_production_designer/films_production_designed <oe>Milk,bill groom did production design for this acclaimed film. 
+346,<se> Michael Pitt <rel> /people/person/religion <oe>Atheism,which religion does michael pitt practice
+347,<se> 1922 British Mount Everest expedition <rel> /time/event/locations <oe>Mount Everest,Where did the 1922 british mount everest expedition take place
+348,"<se> Tibet, Tibet <rel> /book/written_work/subjects <oe>History","What is tibet, tibet written about?"
+349,<se> Electron <rel> /music/recording/artist <oe>ASC,what artist released the recording electron
+350,<se> Eric Bloom <rel> /people/person/nationality <oe>United States,Which country does eric bloom have nationality in
+351,<se> Vegetarian cuisine <rel> /food/dietary_restriction/compatible_ingredients <oe>Mung bean,what food is typically served with vegetarian cuisine
+352,<se> The Legend of Zelda: Twilight Princess <rel> /cvg/computer_videogame/cvg_genre <oe>Action role-playing game,what kind of game is the legend of zelda: twilight princess
+353,<se> Bangladesh <rel> /location/location/contains <oe>Rajarhat Upazila,What's an upazila in bangladesh
+354,<se> Mix It Up <rel> /music/album/artist <oe>Jump5,What artist produced the album mix it up
+355,<se> Looking for Richard <rel> /film/film/written_by <oe>Al Pacino,Who wrote the film looking for richard
+356,<se> Lolita <rel> /film/film/written_by <oe>Stephen Schiff,Who wrote lolita (1997 film)
+357,<se> The Saw Doctors <rel> /music/artist/genre <oe>Celtic music,what kind of music does  the saw doctors make
+358,<se> Clue <rel> /film/film/executive_produced_by <oe>Peter Guber,who was the executive producer of the film clue 
+359,<se> Azam Shah <rel> /people/deceased_person/place_of_death <oe>Agra,which city did muhammad azam shah die
+360,<se> Absolutely the Best of The Kingston Trio <rel> /music/album/release_type <oe>Album,what types of music is absolutely the best of the kingston trio
+361,<se> Roadside Romeo <rel> /film/film/production_companies <oe>Yash Raj Films,what production company is associated with roadside romeo
+362,<se> Derek Sherinian <rel> /music/artist/track <oe>The Farandole,what tract is released by derek sherinian
+363,<se> Waterclime <rel> /music/artist/genre <oe>Jazz,what kind of music does waterclime perform 
+364,<se> The City College of New York <rel> /education/educational_institution/colors <oe>Grey,what is a color of city college of new york
+365,<se> Cashiers <rel> /location/location/containedby <oe>United States,which country is cashiers located in?
+366,<se> Darrius Barnes <rel> /people/person/place_of_birth <oe>Raleigh,darrius barnes was born in this city
+367,<se> Seumas O'Kelly <rel> /people/person/gender <oe>Male,what is the sex of seumas o'kelly?
+368,<se> Bo Diddley <rel> /music/composition/form <oe>Song,what type of composition is bo diddley?
+369,<se> Lenoir <rel> /location/location/people_born_here <oe>Kary Mullis,Name a person born in lenoir.
+370,<se> Dangerous <rel> /music/album/release_type <oe>Album,what format was dangerous released in?
+371,<se> Hardcore pornography <rel> /film/film_genre/films_in_this_genre <oe>Sweet Cave G-Cup Busty,Name a film considered to be hardcore pornography
+372,<se> Tim Rice <rel> /music/producer/tracks_produced <oe>Peter's Denial,What is a track tim rice produced?
+373,<se> Glenrock Lagoon <rel> /geography/geographical_feature/category <oe>Lagoon,What type of geological feature is the glenrock lagoon
+374,<se> Boxing <rel> /martial_arts/martial_art/well_known_practitioner <oe>Július Torma,who is a well known practitioner of boxing
+375,<se> Amnaat Luukjan <rel> /people/person/gender <oe>Male,what gender is amnaat luukjan
+376,<se> Nikolay Alexeyev <rel> /people/person/place_of_birth <oe>Moscow,where was nikolay alexeyev born
+377,<se> Edmond Hogan <rel> /people/person/religion <oe>Catholicism,what belief does edmond hogan practice
+378,<se> Tomorrow <rel> /music/recording/artist <oe>Crimpshrine,which artist made the recording tomorrow
+379,<se> Spacemen 3 <rel> /music/artist/track <oe>Suicide,spacemen 3 created what track
+380,<se> Richard S. Ewell <rel> /people/deceased_person/place_of_burial <oe>Old City Cemetery,What cemetery was richard s. ewell buried at
+381,<se> Jack Gross <rel> /people/person/parents <oe>Martha Burns,Who is a parent of jack gross
+382,<se> Modern Currencies <rel> /music/album/genre <oe>Indie rock,What would you call modern currencies
+383,<se> Ashkenazi Jews <rel> /people/ethnicity/people <oe>Leonard Cohen,what person is an ashkenazi jews?
+384,<se> The execution of Major Andre <rel> /book/written_work/subjects <oe>History,what is the topic of the execution of major andre
+385,<se> Kamen Rider: The First <rel> /film/film/production_companies <oe>Toei Animation,Who produced kamen rider: the first
+386,"<se> Lucan <rel> /location/location/people_born_here <oe>Patrick Sarsfield, 1st Earl of Lucan","who was born in lucan, dublin?"
+387,<se> Breaking Dawn <rel> /book/book/characters <oe>Phil,What's a character in breaking dawn
+388,<se> Ermanno Olmi <rel> /people/person/children <oe>Fabio Olmi,who is the child of  ermanno olmi
+389,<se> Baltimore <rel> /music/recording/canonical_version <oe>Baltimore,what is the canonical version of baltimore called
+390,<se> Lies in Plain Sight <rel> /film/film/written_by <oe>Teena Booth,who was the writer for the film lies in plain sight 
+391,<se> Free the Music <rel> /music/album/release_type <oe>Album,What format was free the music released in?
+392,<se> Paris <rel> /location/place_with_neighborhoods/neighborhoods <oe>Latin Quarter,What is the name of a famous street near the Sienne river in  paris?
+393,<se> Tom and Jerry: The Fast and the Furry <rel> /film/film/production_companies <oe>Turner Entertainment,Under what company was the film Tom & Jerry and the Fast and the Furry produced?
+394,<se> Paul G. Allen Family Foundation <rel> /symbols/namesake/named_after <oe>Paul Allen,who was the paul g. allen family foundation named after 
+395,<se> Gwen Guthrie <rel> /music/artist/album <oe>Portrait,what is the name of an album by gwen guthrie
+396,<se> WERC-FM <rel> /broadcast/radio_station/format <oe>Modern rock,what is the format of werc-fm
+397,<se> Debye <rel> /astronomy/extraterrestrial_location/type_of_planetographic_feature <oe>Impact crater,what is debye
+398,<se> Sicilian Wars <rel> /time/event/locations <oe>Sicily,where did greek–punic wars take place?
+399,<se> Beef cattle <rel> /biology/domesticated_animal/breeds <oe>Highland cattle,which is an example of a breed of beef cattle?
+400,<se> Fingringhoe <rel> /location/location/containedby <oe>Essex,where is fingringhoe located
+401,<se> Big Guns the Very Best Of <rel> /music/album/artist <oe>Rory Gallagher,who released the album big guns the very best of
+402,<se> The Milt Jackson Big 4 <rel> /music/album/release_type <oe>Album,how is at the museum of modern art released as?
+403,<se> Evereve <rel> /music/artist/genre <oe>Black metal,what type of music is played by the evereve band
+404,<se> Ady Spencer <rel> /people/person/gender <oe>Male,What is ady spencer's gender?
+405,<se> True Music 1st Flight Live 2003 <rel> /music/album/genre <oe>Cantopop,what genre is true music 1st flight live 2003
+406,<se> Henry Hicks <rel> /people/person/gender <oe>Male,What gender is henry hicks
+407,<se> Mrs. Jeffries Questions the Answer <rel> /book/written_work/subjects <oe>Great Britain,What was mrs. jeffries questions the answer written about 
+408,<se> Jan Hammer <rel> /music/artist/genre <oe>Pop rock,What type of music does jan hammer play?
+409,"<se> Novel <rel> /media_common/literary_genre/books_in_this_genre <oe>Novels, 1955-1962",Name a novel by Vladimir Nabokov
+410,<se> Elisabeth Bergner <rel> /people/person/nationality <oe>Ukraine,whats the nationality of elisabeth bergner
+411,<se> Wae's me for Prince Charlie <rel> /music/album/artist <oe>Battlefield Band,What artist made wae's me for prince charlie
+412,<se> Chaplin <rel> /film/film/written_by <oe>William Boyd,who was the writer of the movie chaplin
+413,<se> California <rel> /location/location/contains <oe>Clearlake Highlands,where is a place to visit in california
+414,<se> Niko Lozančić <rel> /people/person/place_of_birth <oe>Federation of Bosnia and Herzegovina,Where waS niko lozančić born
+415,<se> When a Woman Sins <rel> /film/film/produced_by <oe>William Fox,who produced the film when a woman sins
+416,<se> John Grinder <rel> /base/argumentmaps/innovator/original_ideas <oe>Neuro-linguistic programming,what is an original idea from john grinder
+417,<se> Dextor Clinkscale <rel> /american_football/football_player/position_s <oe>Safety,what position does dextor clinkscale play in american football 
+418,<se> Graz <rel> /location/administrative_division/second_level_division_of <oe>Austria,What is graz a second level division of?
+419,<se> Nalidixic acid <rel> /medicine/drug_ingredient/active_moiety_of_drug <oe>Nalidixic acid,What is an active moiety of nalidixic acid
+420,<se> Album <rel> /music/album_release_type/albums <oe>Malcolm X,what are albums?
+421,<se> Brandenberg <rel> /location/location/containedby <oe>Austria,where is brandenberg
+422,<se> Jose Carlos Barba <rel> /people/person/place_of_birth <oe>Santa Cruz de la Sierra,Where was Jose carlos barba born?
+423,<se> Madagascar <rel> /film/film_series/films_in_series <oe>Madagascar 3: Europe's Most Wanted,what's the full title of the third madagascar movie
+424,<se> Quail Valley <rel> /location/location/containedby <oe>United States,which country is quail valley located in
+425,<se> Snow Queen <rel> /film/film/genre <oe>Fantasy,what kind of film is snow queen
+426,<se> Candy Csencsits <rel> /people/deceased_person/place_of_death <oe>Tulsa County,what was candy csencsits's place of death
+427,<se> DreamWorks Animation <rel> /film/production_company/films <oe>Home,Name an animated film produced by dreamworks animation
+428,<se> Arthur Bari <rel> /people/person/children <oe>Gina Kolata,who is a child of arthur bari
+429,<se> I am Round <rel> /film/film/country <oe>Sweden,Which country did i am round originate in?
+430,<se> The Emperor's New Cloak <rel> /tv/tv_series_episode/writer <oe>Ira Steven Behr,Who wrote the emperors new cloak
+431,<se> The Dark Portal <rel> /book/book/genre <oe>Fantasy,What kind of book is the dark portal
+432,<se> Capri <rel> /location/location/containedby <oe>Italy,Which country is capri located in?
+433,<se> Half a Mill <rel> /people/deceased_person/cause_of_death <oe>Murder,What was half-a-mil's cause of death?
+434,<se> The Essential Beatles <rel> /music/album/artist <oe>The Beatles,whose album is the essential beatles?
+435,<se> Barry McGuire <rel> /music/artist/track <oe>Eve of Destruction,what is a song by barry mcguire
+436,<se> Blood and Wine <rel> /film/film/produced_by <oe>Jeremy Thomas,Who produced the movie blood and wine?
+437,<se> Pianist <rel> /people/profession/people_with_this_profession <oe>Carlo Zecchi,Name a pianist.
+438,"<se> Real, The Movie <rel> /media_common/netflix_title/netflix_genres <oe>Spain","What country did real, the movie take place in?"
+439,<se> The Adventures of Tintin <rel> /tv/tv_program/languages <oe>English language,What is the language of the adventures of tintin?
+440,<se> Take My Word For It <rel> /tv/tv_program/genre <oe>Action fiction,What kind of tv show is take my word for it?
+441,<se> Austin Subdivision <rel> /location/location/containedby <oe>Tuscaloosa County,which county is austin subdivision a part of
+442,<se> Mohamed Ismail <rel> /people/person/profession <oe>Screenwriter,what was mohamed ismail's profession
+443,<se> Album <rel> /music/album_release_type/albums <oe>Spirit: A History,what is an example of an album
+444,<se> Internet <rel> /book/book_subject/works <oe>Create your own home page,What is a book written about the internet?
+445,<se> Bang Bang (My Baby Shot Me Down) <rel> /music/composition/language <oe>English language,whats the language of  bang bang (my baby shot me down)
+446,<se> The Purple Heart <rel> /film/film/directed_by <oe>Lewis Milestone,Who directed the film  the purple heart
+447,<se> Michael Straight <rel> /people/person/place_of_birth <oe>New York,Where was Michael Whitney Straight born?
+448,<se> Danish and Norwegian alphabet <rel> /language/language_writing_system/languages <oe>Nynorsk,What language utilizes the danish and norwegian alphabet
+449,<se> 5881 Akashi <rel> /astronomy/star_system_body/star_system <oe>Solar System,where is 5881 akashi found 
+450,<se> Langesund <rel> /location/location/containedby <oe>Bamble,where is langesund?
+451,<se> Holiday Inn <rel> /organization/organization/place_founded <oe>Memphis,in what city in TN was holiday inn founded
+452,"<se> So Long, and Thanks for All the Fish <rel> /book/book/genre <oe>Fiction","What genre of book is so long, and thanks for all the fish?"
+453,<se> Samoa <rel> /location/country/languages_spoken <oe>English language,What language to people speak in samoa?
+454,<se> Noorie <rel> /music/album/album_content_type <oe>Soundtrack,what type of album is noorie?
+455,<se> Patrick Michael Larsson <rel> /music/artist/genre <oe>Rhythm and blues,What genre of music did patrick michael larsson create
+456,<se> The Best and the Rest <rel> /music/album/artist <oe>Savatage,What band recorded the best and the rest
+457,<se> Manu Ginóbili <rel> /people/person/parents <oe>Jorge Ginóbili,Who is the father of manu ginóbili?
+458,<se> The Rainwater LP <rel> /music/album/genre <oe>Indie rock,The album the rainwater lp is what type of musical genre
+459,<se> Râmnicu Vâlcea <rel> /location/location/containedby <oe>Romania,where is the location of râmnicu vâlcea?
+460,<se> Womankind Worldwide <rel> /organization/organization/sectors <oe>International development,What sector does womankind worldwide belong to
+461,<se> Akseli Gallen-Kallela <rel> /visual_art/visual_artist/associated_periods_or_movements <oe>Realism,what type of work is akseli gallen-kallela most known for?
+462,<se> Goga Kapoor <rel> /people/person/place_of_birth <oe>India,Which country was goga kapoor born in
+463,<se> Brian Blessed <rel> /film/director/film <oe>King Lear,what films are directed by brian blessed?
+464,<se> Secondary school <rel> /education/school_category/schools_of_this_kind <oe>Cactus High School,what is an example of a secondary school?
+465,<se> The Inmate <rel> /media_common/netflix_title/netflix_genres <oe>Philippines,which genre in netflix is the inmate titled under?
+466,<se> Miles from Home <rel> /film/film/directed_by <oe>Gary Sinise,what was the director of miles from home?
+467,<se> Kasam Teri Kasam <rel> /film/film/country <oe>India,Which country was kasam teri kasam released in
+468,"<se> King, Queen, Knave <rel> /film/film/genre <oe>Hindi cinema","What is the genre of king, queen, knave?"
+469,<se> Gretna Green <rel> /location/location/people_born_here <oe>Pat Heywood,who is a person born in gretna green
+470,<se> Joseph Curran <rel> /people/deceased_person/place_of_death <oe>Boca Raton,Which city in America did joseph curran die in
+471,<se> John Polson <rel> /people/person/gender <oe>Male,is john polson a boy or a girl
+472,<se> Shade <rel> /film/film/music <oe>Brad Paisley,whose music is in shade?
+473,<se> Justin Helwege <rel> /people/person/nationality <oe>United States,What country is justin helwege from
+474,<se> Austin Sunday <rel> /music/album/artist <oe>Jandek,Who wrote the album austin sunday
+475,<se> The Wayward Sons of Mother Earth <rel> /music/album/genre <oe>Thrash metal,What type of music genre is the wayward sons of mother earth
+476,<se> Cyrus <rel> /location/location/time_zones <oe>Central Time Zone,which time zone is cyrus in
+477,<se> Get U Down <rel> /music/recording/artist <oe>Snoop Dogg,who originally performed the song get u down
+478,<se> Martin Johnson <rel> /people/person/place_of_birth <oe>Andover,where in the united states was martin johnson born in
+479,<se> IntelliJ IDEA <rel> /computer/software/license <oe>Proprietary software,what kind of license was intellij idea released under?
+480,<se> E.T. the Extra-Terrestrial <rel> /film/film/production_companies <oe>Amblin Entertainment,Which company produced e.t. the extra-terrestrial
+481,<se> Kevin Shields <rel> /music/artist/genre <oe>Ambient music,what type of music does kevin shields play
+482,<se> Didius Julianus <rel> /user/robert/roman_empire/roman_emperor/emperor_of <oe>Roman Empire,which empire did didius julianus ruled over?
+483,<se> Compilation album <rel> /music/album_content_type/albums <oe>The Swan and the Wanderer,Name a 1999 compilation album 
+484,<se> Kevin Dorff <rel> /people/person/gender <oe>Male,What is kevin dorff's gender? 
+485,<se> Billy Ocean <rel> /music/composer/compositions <oe>Suddenly,What is the name of a composition by billy ocean
+486,<se> Maral Boyadjian <rel> /people/person/religion <oe>Christianity,what is the religion of maral boyadjian?
+487,<se> Alphonso Carreker <rel> /american_football/football_player/position_s <oe>Defensive end,what defensive position does alphonso carreker play
+488,<se> Columbus Quarter <rel> /location/location/containedby <oe>United States,where is columbus quarter located
+489,<se> Jungle Music <rel> /music/album/release_type <oe>Album,the blues collection 5: jungle music  was released on what music type
+490,<se> The Elements <rel> /music/recording/producer <oe>Tom Lehrer,who produced the elements
+491,<se> Stand-up comedy <rel> /tv/tv_genre/programs <oe>Vitamin Club,which tv show featured mainly stand-up comedy
+492,<se> Five Gates to Hell <rel> /film/film/genre <oe>Melodrama,what kind of film is five gates to hell
+493,<se> Fantasy <rel> /media_common/literary_genre/books_in_this_genre <oe>Vampire Junction,what book is in the genre fantasy?
+494,<se> Catherine Martin <rel> /film/film_costumer_designer/costume_design_for_film <oe>Moulin Rouge,catherine martin is the costume designer for what musical?
+495,<se> Black and white <rel> /film/film_genre/films_in_this_genre <oe>East Lynne,what is an example of a black-and-white film
+496,<se> (21019) 1988 VC2 <rel> /astronomy/celestial_object/category <oe>Asteroid,What type of celestial object is (21019) 1988 vc2
+497,<se> Makassar <rel> /location/location/contains <oe>Hasanuddin University,what school is located in makassar
+498,<se> Phil Manzanera <rel> /music/producer/tracks_produced <oe>Clues,what tracks were produced by phil manzanera?
+499,<se> Ruggell <rel> /location/administrative_division/first_level_division_of <oe>Liechtenstein,what is the first level division of ruggell
+500,<se> Aleksandr Lebedev <rel> /people/person/profession <oe>Actor,what does aleksandr lebedev do for a living
+501,<se> Good Will Hunting <rel> /film/film/film_production_design_by <oe>Missy Stewart,Who did the production design of good will hunting
+502,<se> .lc <rel> /internet/top_level_domain/sponsor <oe>University of Puerto Rico,what university sponsored lc
+503,<se> Compilation album <rel> /music/album_content_type/albums <oe>The Punk Is Back,which compilation album was released in 1995?
+504,<se> Socialist Republic of Slovenia <rel> /location/location/people_born_here <oe>Amel Mujčinović,Who was born in socialist republic of slovenia?
+505,<se> Chalmers Wylie <rel> /military/military_person/participated_in_conflicts <oe>World War II,Which war did chalmers wylie participate in?
+506,<se> Artis Mills <rel> /people/person/children <oe>Sametto James,who is artis mills's kid
+507,<se> Nathaniel Silsbee <rel> /people/person/nationality <oe>United States,where is nathaniel silsbee from
+508,<se> The Sound of Music <rel> /film/film/music <oe>Oscar Hammerstein II,who composed the music for the sound of music (film)
+509,<se> Fantasy <rel> /media_common/literary_genre/books_in_this_genre <oe>The Wizards of Odd,whats a fantasy literary book
+510,<se> Rugby union <rel> /olympics/olympic_sport/olympic_games_contested <oe>1924 Summer Olympics,When did rugby union stop being an olympic sport?
+511,<se> Stay <rel> /music/single/versions <oe>Stay (radio version),What's the radio version of stay
+512,<se> Programma International <rel> /business/business_operation/industry <oe>Video game,Which industry is programma international part of
+513,<se> Kingdom Hearts II <rel> /cvg/computer_videogame/cvg_genre <oe>Action role-playing game,what kind of game is kingdom hearts ii?
+514,<se> Indie rock <rel> /music/genre/artists <oe>Au Revoir Simone,who is the artist of  indie rock
+515,<se> Dam Street <rel> /film/film/directed_by <oe>Li Yu,Who directed dam street
+516,<se> The Regency <rel> /location/location/containedby <oe>73102,which zip code is regency tower located in?
+517,<se> Arthur J. Bond <rel> /people/person/ethnicity <oe>African Americans,which ethnicity is arthur j. bond
+518,<se> Beyond the Valley... <rel> /music/album/genre <oe>Punk rock,What genre of music is beyond the valley...?
+519,<se> Grass Fight <rel> /time/event/included_in_event <oe>Texas Revolution,what was the grass fight part of
+520,<se> Egyptian pound <rel> /finance/currency/countries_used <oe>Egypt,what country uses egyptian pound as currency
+521,<se> Hitoshi Ohne <rel> /people/person/place_of_birth <oe>Kunitachi,Where was hitoshi ohne born
+522,<se> Gaziosmanpaşa University <rel> /education/educational_institution/school_type <oe>Public university,what kind of school is gaziosmanpasha university
+523,<se> Bisaurin <rel> /geography/mountain/mountain_range <oe>Pyrenees,what mountain range does the mountain bisaurin belong to
+524,<se> Lim Hyung-joo <rel> /music/artist/genre <oe>Classical music,What kind of music does lim hyung joo do
+525,<se> Akei language <rel> /language/human_language/main_country <oe>Vanuatu,what country is the akei language spoken in
+526,<se> Mike Oldfield <rel> /people/person/profession <oe>Multi-instrumentalist,What is mike oldfield's profession?
+527,<se> Houston <rel> /location/location/people_born_here <oe>Kurt Taylor,which actor was born in houston
+528,<se> A Question of Time <rel> /music/composition/language <oe>English language,What language is used in the composition a question of time
+529,<se> Noor Mahal <rel> /location/location/containedby <oe>Punjab,what city is noor mahal in
+530,<se> Nepal <rel> /music/artist/album <oe>Raza de Traidores,which album is created by nepal
+531,<se> Tally Ho <rel> /location/location/containedby <oe>Iberville Parish,wher is tally ho
+532,<se> The Bronx <rel> /location/location/contains <oe>Harding Park,What parks are in the bronx?
+533,<se> Idhaya Thirudan <rel> /film/film/produced_by <oe>K. Balachander,who produced the film  idhaya thirudan
+534,<se> Red Dead Redemption: Undead Nightmare <rel> /cvg/computer_videogame/cvg_genre <oe>Action-adventure game,what type of computer videogame genre is the game  red dead redemption: undead nightmare
+535,<se> Western <rel> /tv/tv_genre/programs <oe>Hec Ramsey,what is a 1970's western (genre) show
+536,<se> Fillmore West 1969: The Complete Recordings <rel> /music/album/genre <oe>Jam band,what genre of music is found on fillmore west 1969: the complete recordings
+537,<se> The Halloween Tree <rel> /film/film/directed_by <oe>Mario Piluso,Who directed the film The Halloween Tree?
+538,<se> Pike County Joint Vocational School District <rel> /location/location/containedby <oe>Ohio,which state is pike county joint vocational school district located 
+539,<se> Princess Cecylia Lubomirska <rel> /people/family_member/family <oe>House of Bourbon,Which family is princess cecylia lubomirska from
+540,<se> William S. Burroughs <rel> /book/author/school_or_movement <oe>Beat Generation,what group was created by william s. burroughs
+541,<se> Soumodip Sarkar <rel> /people/person/place_of_birth <oe>India,what is soumodip sarkars place of birth
+542,<se> Creighton <rel> /location/location/containedby <oe>United States,Where is Creighton located?
+543,<se> Mac Powell <rel> /music/artist/genre <oe>Christian rock,what genre does mac powell like to perform
+544,<se> Giovanni Lavaggi <rel> /people/person/nationality <oe>Italy,what country is giovanni lavaggi from
+545,<se> Paddy Barnes <rel> /martial_arts/martial_artist/martial_art <oe>Boxing,What type of martial art does paddy barnes perform
+546,<se> New Jersey <rel> /book/book_subject/works <oe>Where evil sleeps,what is the work of the book subject new jersey?
+547,<se> Fousque <rel> /music/album/genre <oe>Independent music,what kind of music is fousque
+548,<se> Clayton <rel> /location/location/containedby <oe>United States,which country is clayton from
+549,<se> Podensac <rel> /location/location/containedby <oe>Aquitaine,what commune is within aquitaine?
+550,<se> Kristian Stanfill <rel> /music/artist/track <oe>Always (Live),what is a song by the artist kristian stanfill?
+551,<se> Good Hope <rel> /location/neighborhood/neighborhood_of <oe>Washington,what neighborhood is good hope in
+552,<se> Bikash Malla <rel> /people/person/nationality <oe>Nepal,What is bikash malal's nationality?
+553,<se> Mandy Smith <rel> /people/person/gender <oe>Female,What gender is mandy smith
+554,<se> Young Cesar <rel> /film/film/subjects <oe>Prison,what subject is in the film young cesar?
+555,<se> Mika Bomb <rel> /music/artist/genre <oe>J-pop,what style of music does mika bomb perform
+556,<se> Joe Bowman <rel> /people/deceased_person/place_of_death <oe>Kansas City,what city and state did joe bowman die in
+557,<se> Salisbury <rel> /location/location/containedby <oe>Somerset County,What county is salisbury located in
+558,<se> Kailash Sharma <rel> /people/person/gender <oe>Male,What is the gender of kailash sharma
+559,<se> If I Could Turn Back Time: Cher's Greatest Hits <rel> /music/album/album_content_type <oe>Compilation album,"What time of album is the ""Greatest Hits""?"
+560,<se> Gene Corbett <rel> /people/deceased_person/place_of_death <oe>Salisbury,Where did Gene Corbett die?
+561,<se> Ruth Baldor <rel> /people/deceased_person/place_of_death <oe>Bad Sooden-Allendorf,Where did ruth baldor die
+562,<se> Art Acord <rel> /people/person/gender <oe>Male,what is the gender of art acord
+563,<se> John Hodge <rel> /people/person/nationality <oe>United Kingdom,what nationality does john hodge belong to
+564,<se> Polpo in umido con cipolle <rel> /food/dish/ingredients <oe>Onion,what is an ingredient in polpo in umido con cipolle
+565,<se> Buy Now... Saved Later <rel> /music/album/genre <oe>Rap metal,What genre of music is buy now... saved later?
+566,<se> The September Issue <rel> /film/film/film_format <oe>35 mm movie film,the september issue was produced in what film format?
+567,<se> Illinois River <rel> /geography/river/cities <oe>Agness,in which community does the illinois river confluence with the Lower Rogue river
+568,<se> Rhythm and blues <rel> /music/genre/artists <oe>Khleo Thomas,Who is rhythm and blues artist?
+569,<se> Dvorak in America <rel> /book/book/genre <oe>Music,What book genre does dvorak in america belong to?
+570,<se> Mahamudra <rel> /religion/religious_practice/practice_of <oe>Kagyu,what do member of mahamudra practice
+571,<se> Doug Bedard <rel> /people/person/nationality <oe>Canada,what is doug bedard's country of nationality
+572,<se> Double bass <rel> /music/instrument/instrumentalists <oe>Squarepusher,who played the double bass?
+573,<se> Marie Chorre <rel> /people/person/nationality <oe>United States,Where is marie chorre originally from?
+574,<se> Melbourne <rel> /location/location/people_born_here <oe>Robert Manne,Name a man born in melbourne
+575,<se> Double Blues <rel> /music/album/album_content_type <oe>Compilation album,what type of album is double blues
+576,<se> Album <rel> /music/album_release_type/albums <oe>34 Number Ones,What's a compilation album written by alan jackson
+577,<se> All the Invisible Children <rel> /film/film/cinematography <oe>Vittorio Storaro,who is the cinematographer for all the invisible children
+578,<se> Francisco Marán <rel> /people/person/place_of_birth <oe>Istria,where was  francisco marán born
+579,<se> Mike Bellamy <rel> /people/person/place_of_birth <oe>New York,Where was mike bellamy born?
+580,<se> 22902 <rel> /location/postal_code/country <oe>United States,what country is 22902 a postal code in?
+581,<se> Tara Sands <rel> /people/person/place_of_birth <oe>Hartford,where was tara sands in?
+582,<se> Film producer <rel> /people/profession/people_with_this_profession <oe>Harlene Stein,name a professional film producer.
+583,<se> Henry III of England <rel> /fictional_universe/fictional_character/gender <oe>Male,what is henry iii of england's gender?
+584,<se> Vered Feldman <rel> /people/person/place_of_birth <oe>Herzliya,where was vered feldman born 
+585,<se> Moscow <rel> /location/location/people_born_here <oe>Boris Morukov,Who's a cosmonaut born in moscow
+586,<se> Ravi Sharma <rel> /people/person/place_of_birth <oe>Gauripur,where was ravi sharma born?
+587,<se> Tuscarawas County <rel> /location/us_county/hud_county_place <oe>Dover,"what is a city located in tuscarawas county, ohio"
+588,<se> Fastlane <rel> /tv/tv_program/country_of_origin <oe>United States,What is the country of origin of fastlane
+589,<se> Math rock <rel> /music/genre/albums <oe>Manipulator,what is a math rock album?
+590,<se> Pachhi Kehta Nahi Ke Kahyun Nahotu <rel> /film/film/language <oe>Gujarati language,Which language is pachhi kehta nahi ke kahyun nahotu in
+591,<se> Defender <rel> /soccer/football_position/players <oe>Néstor Rossi,Who is a notable defender in football
+592,<se> Peanut Butter <rel> /music/recording/artist <oe>Wreckx-n-Effect,which artist recorded peanut butter 
+593,<se> John Ellis <rel> /people/person/place_of_birth <oe>San Jose,Where was john ellis born?
+594,<se> Westford <rel> /location/location/time_zones <oe>Eastern Time Zone,"what time zone is westford, massachusetts in"
+595,<se> Armageddon <rel> /film/film/produced_by <oe>Michael Bay,who is the producer of armageddon
+596,<se> Richard Leveridge <rel> /people/person/gender <oe>Male,Is the sex of richard leveridge male or female?
+597,<se> Rage <rel> /music/artist/genre <oe>Thrash metal,What genre of music does rage perform?
+598,<se> North and South <rel> /tv/tv_program/languages <oe>English language,in what language is the show north and south in
+599,<se> Salvador <rel> /location/location/people_born_here <oe>Chica Xavier,"who was born in salvador, bahia"
+600,<se> David Gottesman <rel> /people/person/religion <oe>Judaism,does david gottesman follow judaism or buddhism 
+601,<se> Born to Be Wild <rel> /music/album/album_content_type <oe>Compilation album,What is the album type of born to be wild?
+602,<se> Sherlock Holmes <rel> /tv/tv_program/country_of_origin <oe>France,What is the country of origin of the character sherlock holmes
+603,<se> Bleach: Vol. 30: The Arrancar <rel> /media_common/netflix_title/netflix_genres <oe>Anime,what is the netfix genre where bleach: vol. 30: the arrancar can be found
+604,<se> Trinity Episcopal Church <rel> /architecture/structure/architectural_style <oe>Gothic architecture,What is the architectural style of the trinity episcopal church?
+605,<se> Pitcher <rel> /baseball/baseball_position/players <oe>Tim Redding,who is a former pitcher for the san diego padres?
+606,<se> Children of Mana <rel> /cvg/computer_videogame/cvg_genre <oe>Action game,What type of videogame is children of mana released as?
+607,<se> Ziff Davis <rel> /internet/website_owner/websites_owned <oe>1Up Network,What is the name of the website own by ziff davis? 
+608,<se> Ballads <rel> /book/book/genre <oe>Fantasy,what kind of book is ballads
+609,<se> I Dream of Jeannie <rel> /music/single/versions <oe>I Dream of Jeannie,What's the single version of i dream of jeannie named
+610,<se> Opera <rel> /music/genre/artists <oe>Theodor Blumer,Who is an opera artist?
+611,<se> Chuck Smith <rel> /organization/organization_founder/organizations_founded <oe>Calvary Chapel Bible College,what organization was founded by chuck smith?
+612,<se> Hal Hartley <rel> /film/director/film <oe>Trust,what film was directed by hal hartley
+613,<se> Sicily <rel> /location/location/contains <oe>Palazzo Adriano,which town is located in sicily
+614,<se> Brig <rel> /location/administrative_division/second_level_division_of <oe>Switzerland,what is the second level division of brig?
+615,<se> The Wisdom of W.E.B. Du Bois <rel> /book/written_work/original_language <oe>English language,what language is the wisdom of w.e.b. du bois in?
+616,<se> Palani Subramaniam Pillai <rel> /people/person/gender <oe>Male,What gender is palani subramaniam pillai?
+617,<se> Evangelion: 3.0 You Can (Not) Redo <rel> /film/film/produced_by <oe>Hideaki Anno,Who is the producer on evangelion: 3.0 you can (not) redo?
+618,<se> Pinetop Perkins <rel> /music/artist/genre <oe>Chicago blues,what kind of music is pinetop perkins known for
+619,<se> Crucifixion <rel> /music/composition/lyricist <oe>Phil Ochs,who wrote the song crucifixion
+620,<se> Who Feels Love? <rel> /music/composition/lyricist <oe>Noel Gallagher,who wrote the lyrics for who feels love?
+621,<se> Peter Elkas <rel> /music/artist/genre <oe>Pop music,what kind of music does peter elkas make?
+622,<se> Hard rock <rel> /music/genre/albums <oe>Lightning Strikes Twice,What's a hard rock album featuring molly hatchet
+623,<se> Morocco <rel> /location/location/events <oe>Battle of El-Moungar,What conflict occurred in morocco
+624,<se> Nestlé <rel> /food/candy_bar_manufacturer/candy_bars <oe>Butterfinger,What candy is made by nestle
+625,<se> Hagerman Pass <rel> /location/location/containedby <oe>Pitkin County,which county is hagerman pass located in
+626,<se> City of Joy <rel> /film/film/written_by <oe>Mark Medoff,Who wrote the film city of joy?
+627,"<se> Granville Leveson-Gower, 2nd Earl Granville <rel> /people/person/parents <oe>Granville Leveson-Gower, 1st Earl Granville","who was granville leveson-gower, 2nd earl granville's father"
+628,<se> Wisdom Fofo Agbo <rel> /people/person/gender <oe>Male,what is the biological gender of wisdom fofo agbo
+629,<se> Defender <rel> /soccer/football_position/players <oe>Leandro González Pírez,what is the name of a defender in soccer 
+630,<se> Ruth Root <rel> /people/person/nationality <oe>United States,what country gives nationality to ruth root
+631,<se> Gold Rush Maisie <rel> /film/film/country <oe>United States,what country was gold rush maisie about 
+632,<se> McDonnell Douglas AV-8B Harrier II <rel> /aviation/aircraft_model/manufacturer <oe>Boeing,Who is a manufacturer of the mcdonnell douglas av-8b harrier ii
+633,<se> Macintosh Plus <rel> /computer/computer/parent_model <oe>Macintosh,What is the parent model of the macintosh plus
+634,<se> Share Your Love with Me <rel> /music/album/artist <oe>Aretha Franklin,what musician created share your love with me
+635,<se> Scotched in Scotland <rel> /film/film/edited_by <oe>Jules White,who is the editor for scotched in scotland?
+636,<se> Alexis Reich <rel> /people/person/gender <oe>Male,what is john mark karr's gender 
+637,<se> Ernest W. Adams <rel> /people/person/gender <oe>Male,what gender is ernest adams 
+638,<se> Christian ska <rel> /music/genre/artists <oe>Squad Five-O,what is a musician that plays christian ska music
+639,<se> Marc Bendavid <rel> /people/person/gender <oe>Male,what's marc bendavid's gender
+640,<se> 5041 Theotes <rel> /astronomy/astronomical_discovery/discovery_site <oe>Palomar Observatory,where was 5041 theotes discovered?
+641,<se> John Hewitt <rel> /people/person/gender <oe>Male,what is the sex of john hewitt
+642,<se> Violet <rel> /film/film/country <oe>United States,Which nation filmed violet
+643,<se> Porter Brook <rel> /geography/river/cities <oe>Sheffield,"in what borough in South Yorkshire, England is the porter brook river located"
+644,<se> Sheridan Road <rel> /location/location/contains <oe>Emil Bach House,which Prairie style house in Chicago is located on sheridan road
+645,<se> Battle of Westerplatte <rel> /base/culturalevent/event/entity_involved <oe>Second Polish Republic,what event was the battle of westerplatte part of 
+646,<se> Pella <rel> /location/location/time_zones <oe>Central Time Zone,what time zone is  pella in
+647,"<se> South Africa <rel> /location/location/contains <oe>Christian Brothers' College, Mount Edmund",what schools are in south africa?
+648,<se> Mark Isham <rel> /film/music_contributor/film <oe>My One and Only,What's a movie that mark isham wrote the music for
+649,<se> Ivan Kulyk <rel> /people/person/ethnicity <oe>Jewish people,What is the ethnicity of ivan kulyk?
+650,<se> Chien Shih-Liang <rel> /people/person/place_of_birth <oe>Hangzhou,in which Chinese city was chien shih-liang born
+651,<se> The Horse Whisperer <rel> /film/film/film_festivals <oe>33rd Karlovy Vary International Film Festival,which film festivals did the horse whisperer screen at
+652,<se> Isaac Claesz. van Swanenburg <rel> /visual_art/visual_artist/associated_periods_or_movements <oe>Renaissance,What period or movement of art is isaac van swanenburg associated with?
+653,<se> Kurt Weill <rel> /people/person/place_of_birth <oe>Dessau,where was kurt weill born
+654,<se> Wolverine <rel> /fictional_universe/fictional_character/character_created_by <oe>John Romita Sr.,Who created the character of wolverine
+655,<se> Palace <rel> /location/location/containedby <oe>Missouri,where is palace located?
+656,<se> Bitter Seeds <rel> /film/film/language <oe>English language,what language is bitter seeds in 
+657,<se> Orphanage <rel> /book/book_subject/works <oe>The Cider House Rules,which book is written about orphanage
+658,<se> Vishnu Vardhan <rel> /people/person/place_of_birth <oe>Secunderabad,what part of india is vishnu vardhan from?
+659,<se> Diamond <rel> /music/recording/artist <oe>Jeordie,which artist recorded the song diamond
+660,<se> The Last Assyrians <rel> /film/film/language <oe>English language,the last assyrians is a film that features what language?
+661,<se> Fantasy <rel> /film/film_genre/films_in_this_genre <oe>Tales of the Night,what is a type of fantasy?
+662,<se> From a Scream to a Whisper <rel> /music/album/genre <oe>Dream pop,what type of music is from a scream to a whisper
+663,<se> HMS Pinafore: I’m Called Little Buttercup <rel> /music/recording/artist <oe>William Schwenck Gilbert,who is the artist that recorded hms pinafore: im called little buttercup?
+664,<se> Bryan Brown <rel> /people/person/children <oe>Joe Brown,who is the child of bryan brown
+665,<se> Illicit Dreams 2 <rel> /film/film/country <oe>United States,Which country is the film illicit dreams 2 from
+666,<se> Confessions on a Dance Floor <rel> /music/album/genre <oe>Rhythm and blues,Which genre is the album confessions on a dance floor from
+667,<se> All You Can Ever Learn Is What You Already Know <rel> /music/album/artist <oe>The Ataris,which rock group made all you can ever learn is what you already know 
+668,<se> Abel Gance <rel> /film/editor/film <oe>Bonaparte and the Revolution,What films has abel gance edited
+669,<se> Jerzy Wasowski <rel> /people/person/place_of_birth <oe>Warsaw,which city was jerzy wasowski born 
+670,<se> Jeff Russo <rel> /people/person/nationality <oe>United States,Where is jeff russo from
+671,<se> European Free Trade Association <rel> /location/location/contains <oe>Switzerland,which country was european free trade association associated with
+672,<se> Your Thrift Habits <rel> /film/film/country <oe>United States,where was the your thrift habits movie produced
+673,<se> The Compass Rose <rel> /music/album/genre <oe>World music,What sort of music is featured on the album the compass rose
+674,<se> Edwin Forrest <rel> /people/deceased_person/place_of_death <oe>Philadelphia,what city did edwin forrest pass away in
+675,<se> Rebelión <rel> /film/film/country <oe>Mexico,What country is rebelión from?
+676,<se> Belgrade <rel> /location/location/people_born_here <oe>Vicko Milatović,what is the name of a person that was born in belgrade
+677,<se> Lex Bos <rel> /people/person/gender <oe>Male,What is the gender of lex bos?
+678,<se> Jada Rowland <rel> /people/person/gender <oe>Female,Which gender is jada rowland?
+679,<se> Berlin Diary <rel> /book/written_work/subjects <oe>History,berlin diary  focused on what subject
+680,<se> Compilation album <rel> /music/album_content_type/albums <oe>Worldwide Love,Name a compilation album
+681,<se> Into the Sun <rel> /film/film/country <oe>United States,Where was into the sun filmed?
+682,<se> Frédéric Studer <rel> /people/person/nationality <oe>Switzerland,what country gives nationality to frédéric studer
+683,<se> Beto Naveda <rel> /people/person/place_of_birth <oe>San Juan,Where was Beto Naveda born?
+684,<se> Bacchelli <rel> /people/person/gender <oe>Male,What gender is bacchelli?
+685,<se> Dusty's Trail <rel> /media_common/netflix_title/netflix_genres <oe>Television,What genre is dusty's trail in on netflix?
+686,<se> Dear Prudence <rel> /music/artist/genre <oe>Punk rock,what genre is dear prudence
+687,<se> Mummify <rel> /base/thoroughbredracing/thoroughbred_racehorse/sire <oe>Jeune,what horse breed is mummify
+688,<se> American Wedding <rel> /film/film/film_production_design_by <oe>Clayton Hartley,Who designed the film production for the film american wedding
+689,<se> Thirty Years of Funk: 1969–1999 <rel> /music/album/album_content_type <oe>Compilation album,what type of album is thirty years of funk 1969-1999: the anthology
+690,<se> Alhassane Keita <rel> /soccer/football_player/position_s <oe>Forward,Which football position is alhassane keita known for playing
+691,<se> Album <rel> /music/album_release_type/albums <oe>The Game,what is an album by Chico DeBarge?
+692,<se> Bortelsee <rel> /geography/lake/lake_type <oe>Reservoir,What type of lake is bortelsee?
+693,<se> Hugo Danckaert <rel> /people/person/gender <oe>Male,what is the gender of hugo danckaert?
+694,<se> Susanne Falck <rel> /people/person/place_of_birth <oe>Stockholm,Where in sweden was susanne falck born?
+695,<se> Bloodlock <rel> /film/film/language <oe>English language,whats the language spoken on the movie bloodlock
+696,<se> Otto Scheff <rel> /people/person/nationality <oe>Austria,what is otto scheff's nationality?
+697,<se> Homesick for the Road <rel> /music/album/artist <oe>Tab Benoit,Who was the artist for homesick for the road?
+698,<se> African Americans <rel> /people/ethnicity/people <oe>Bruce Langhorne,Who is a person of african american ethnicity
+699,<se> Ekti Katha <rel> /music/album/artist <oe>Shreya Ghoshal,who is the artist that released ekti katha
+700,<se> The Very Best of Ray Price <rel> /music/album/release_type <oe>Album,What release type was the very best of ray price
+701,<se> L'île mystérieuse <rel> /book/book/genre <oe>Novel,What genre of book is the mysterious island?
+702,<se> Hodierna of Jerusalem <rel> /people/person/parents <oe>Morphia of Melitene,Who is hodierna of jerusalem's mother
+703,<se> Human <rel> /fictional_universe/character_species/characters_of_this_species <oe>Dick Dastardly,Name a fictional human human character from Hanna-Barbera cartoons.
+704,<se> O.K. Ken? <rel> /music/album/genre <oe>Blues,what kind of music is on the album o.k. ken?
+705,<se> Ann Roth <rel> /film/film_costumer_designer/costume_design_for_film <oe>Places in the Heart,what films did ann roth design costumes for
+706,<se> Yesterday <rel> /film/film/language <oe>Zulu language,What language is spoken in yesterday
+707,<se> Howard Barbieri <rel> /american_football/football_player/position_s <oe>Guard,what position has howard barbieri ever played
+708,<se> Pietro Badoglio <rel> /symbols/name_source/namesakes <oe>Grazzano Badoglio,What was named for pietro badoglio?
+709,<se> Stephen Jay Gould <rel> /book/author/works_written <oe>The Richness of Life: The Essential,stephen jay gould wrote what piece of work?
+710,<se> Zeke's Pad <rel> /tv/tv_program/genre <oe>Action fiction,"is zekes pad an action, romance, or comedy tv program"
+711,<se> Album <rel> /music/album_release_type/albums <oe>Brahms at Bedtime: A Sleepytime Serenade,What is an album written by Johannes Brahms
+712,<se> Ludwig Rehn <rel> /people/person/gender <oe>Male,Is the sex of ludwig rehn that of female or male?
+713,<se> Canadian Bound <rel> /base/thoroughbredracing/thoroughbred_racehorse/sex <oe>Stallion,what sex is canadian bound
+714,<se> Paul Rostock <rel> /base/activism/activist/area_of_activism <oe>Nazism,what area of activism is paul rostock associated with
+715,<se> Chromium <rel> /user/mt/default_domain/metabolite/biofluid_location <oe>Serum,What is chromium found in?
+716,<se> The Surreptitious Speech <rel> /book/written_work/subjects <oe>World,what is the topic of the surreptitious speech
+717,<se> Private university <rel> /education/school_category/schools_of_this_kind <oe>Regis College,what is a private university?
+718,<se> Michael Kamen <rel> /music/producer/tracks_produced <oe>Real World,what song did michael kamen produce?
+719,<se> Classic Albums: The Band <rel> /film/film/country <oe>United States,what country is classic albums: the band from?
+720,<se> 10770 Belo Horizonte <rel> /astronomy/celestial_object/category <oe>Asteroid,What category of celestial object does 10770 belo horizonte fall into?
+721,<se> Kurt Vonnegut <rel> /book/author/works_written <oe>2 B R 0 2 B,which are the short stories that kurt vonnegut wrote?
+722,<se> Arthur Ashe: Citizen of the World <rel> /media_common/netflix_title/netflix_genres <oe>Tennis,What type of sports film is arthur ashe: citizen of the world?
+723,<se> MODOK <rel> /fictional_universe/fictional_character/powers_or_abilities <oe>Flight,what power does modok have 
+724,<se> Deep Purple &amp; Friends <rel> /music/album/artist <oe>Deep Purple,which artist is featured on the album deep purple & friends
+725,<se> Lucy Woodward <rel> /people/person/place_of_birth <oe>London,what was lucy woodward's place of birth
+726,<se> Bappi Lahiri <rel> /film/music_contributor/film <oe>Pathar Ke Insan,which film did bappi lahiri work on music 
+727,<se> Lorne Lofsky <rel> /people/person/place_of_birth <oe>Toronto,Where was lorne lofsky born?
+728,<se> Buffalo Soldiers <rel> /film/film/music <oe>David Holmes,who made the music for buffalo soldiers (film) 
+729,<se> Wooton <rel> /location/location/containedby <oe>Leslie County,In what county within the U.S. is wooton located?
+730,<se> Qarpa <rel> /music/artist/genre <oe>Trip hop,what is the best way to classify faktychno sami's music
+731,<se> Television <rel> /media_common/netflix_genre/titles <oe>Caroline in the City,what title is a type of television netflix genre?
+732,<se> Of The Essence <rel> /film/film/country <oe>Canada,which country is of the essence from
+733,<se> Clifford Brown <rel> /music/artist/genre <oe>Jazz,What genre of artist is clifford brown?
+734,<se> Xavier Vives <rel> /people/person/nationality <oe>Spain,What country is xavier vives from?
+735,<se> Andrew K. Hay <rel> /people/person/profession <oe>Politician,what is andrew k. hay's profession?
+736,<se> STS-30 <rel> /spaceflight/space_mission/astronauts <oe>Mary L. Cleave,what astronauts were involved in sts-30
+737,<se> Vilfredo Pareto <rel> /influence/influence_node/influenced_by <oe>Niccolò Machiavelli,who was influenced by Vilfredo Pareto?
+738,<se> Jazz <rel> /music/genre/artists <oe>Elements,What is a jazz artist?
+739,<se> Italian for Beginners <rel> /film/film/music <oe>Niels Gade,who did the music for the film italian for beginners
+740,<se> Sony Music Entertainment <rel> /music/record_label/artist <oe>Agnes Pihlava,Who is an artist signed to sony music entertainment?
+741,<se> Virginijus Praškevičius <rel> /basketball/basketball_player/position_s <oe>Power forward,what position does virginijus praškevičius play 
+742,<se> Sure to Fall (in Love with You) <rel> /music/composition/composer <oe>Carl Perkins,who is the composer of sure to fall (in love with you)
+743,<se> Amsterdam <rel> /music/recording/artist <oe>U.N.P.O.C.,who is the performer of amsterdam
+744,<se> George Harrison <rel> /book/written_work/subjects <oe>England,what is the topic of the book george harrison?
+745,<se> The coil <rel> /book/written_work/subjects <oe>Espionage,what is the coil about?
+746,<se> Keeler <rel> /location/location/containedby <oe>Idaho,Where is keeler located?
+747,<se> 21st century <rel> /book/book_subject/works <oe>The Age of Consent,What is the name of a book that talks about the 21st century
+748,<se> The Loire <rel> /visual_art/artwork/support <oe>Canvas,what was the loire painted on
+749,<se> Adieu Shinjuku Zulu <rel> /music/album/genre <oe>Electronica,what genre of music is adieu shinjuku zulu considered
+750,<se> Victory University <rel> /education/educational_institution/school_type <oe>Private university,What kind of school is crichton college?
+751,<se> Steve Adkins <rel> /baseball/baseball_player/position_s <oe>Pitcher,which baseball position is steve adkins charged of 
+752,<se> Trailer Park Boys <rel> /media_common/netflix_title/netflix_genres <oe>Television,what kind of series is the trailer park boys tv show
+753,<se> Fiction <rel> /media_common/literary_genre/books_in_this_genre <oe>Be Yourself,What's a fiction book written by michelle magorian
+754,<se> Hook <rel> /film/film/country <oe>United States,what country made the robin williams film hook
+755,<se> Mark Dickson <rel> /soccer/football_player/position_s <oe>Forward,what position has mark dickson ever played
+756,<se> United States <rel> /location/location/contains <oe>Troutdale,Name a city and state in the united states
+757,<se> 41st Ohio Infantry Regiment <rel> /military/military_unit/unit_size <oe>Regiment,What type of unit is the 41st ohio infantry?
+758,<se> Solar System <rel> /astronomy/star_system/planetary_system <oe>7472 Kumakiri,what is an asteroid discovered by Japanese astronomers
+759,<se> Rodan <rel> /music/artist/genre <oe>Math rock,what type of music does rodan (band) play
+760,<se> Margarethe von Trotta <rel> /film/writer/film <oe>Vision,what film did margarethe von trotta write 
+761,<se> Adrian Kleinbergen <rel> /visual_art/visual_artist/art_forms <oe>Painting,What type of art for is adrian kleinbergen known for
+762,<se> Mickey Moore <rel> /people/person/profession <oe>Film director,What was mickey moore famous as
+763,<se> Goodhue Township <rel> /location/location/time_zones <oe>Central Time Zone,which timezone is goodhue township in
+764,<se> Tulsa <rel> /location/location/containedby <oe>Tulsa County,What newspaper circulates in the town of kearny
+765,<se> Are You Smarter than a 5th Grader? <rel> /tv/tv_program/program_creator <oe>Mark Burnett,who is the creator of are you smarter than a 5th grader?
+766,<se> Santo Loquasto <rel> /film/film_production_designer/films_production_designed <oe>The Fan,which movie has production designed by santo loquasto
+767,<se> Yamakinkarudu <rel> /film/film/country <oe>India,which country was the yamakinkarudu movie produced
+768,<se> Laurie A. Schillinger <rel> /people/person/place_of_birth <oe>California,where in the united states did laurie a. schillinger died in?
+769,<se> Travelscape Media CC <rel> /business/business_operation/industry <oe>Travel website,what kind of business is travelscape media cc?
+770,<se> Ringo Deathstarr <rel> /symbols/namesake/named_after <oe>Ringo Starr,who is ringo deathstarr named after
+771,<se> Peter Falk <rel> /people/person/ethnicity <oe>Czech Americans,what is peter falk's race
+772,<se> Lawrence Joseph Henderson <rel> /people/deceased_person/place_of_death <oe>Cambridge,which city in the USA is lawrence joseph henderson from
+773,<se> Miki Imai <rel> /music/artist/genre <oe>Pop music,what musical genre does miki imai make
+774,<se> Too Gangsta for Radio <rel> /music/album/release_type <oe>Album,in what format is too gangsta for radio presented
+775,<se> Jacques-Laurent Agasse <rel> /people/deceased_person/place_of_death <oe>London,where did jacques-laurent agasse die?
+776,<se> David Gilmour in Concert <rel> /music/album/release_type <oe>Album,what kind of release is david gilmour in concert?
+777,<se> Symptom of the Universe <rel> /music/composition/lyricist <oe>Geezer Butler,who was the lyricist behind symptom of the universe
+778,<se> Rod Beck <rel> /people/person/place_of_birth <oe>Burbank,where was rod beck born
+779,<se> Sarre <rel> /location/location/containedby <oe>Thanet District,Which district is sarre in?
+780,<se> Marcelo Carballo <rel> /people/person/nationality <oe>Bolivia,where is marcelo carballo from
+781,<se> Marc Singer <rel> /people/person/gender <oe>Male,what is marc singer's gender
+782,<se> Nobuo Uematsu <rel> /music/artist/album <oe>Dear Friends: Music From Final Fantasy,What's a full length album released by nobuo uematsu
+783,<se> KCHA <rel> /broadcast/radio_station/serves_area <oe>Charles City,Which city is served by the radio station kcha (am)
+784,<se> Octavarium <rel> /music/album/artist <oe>Dream Theater,Which artist released the album octavarium?
+785,<se> Keeping a rendezvous <rel> /book/written_work/subjects <oe>Visual arts,What was a theme of keeping a rendezvous
+786,<se> Keith Runcorn <rel> /people/person/gender <oe>Male,what is the gender of keith runcorn
+787,<se> Actor <rel> /people/profession/people_with_this_profession <oe>Tara Cardinal,what is the name of a famous  actor
+788,<se> Maxeys <rel> /location/location/containedby <oe>United States,where is the location of maxeys?
+789,<se> Constitutional Odyssey <rel> /book/written_work/subjects <oe>Political science,what is the constitutional odyssey book about
+790,<se> Éder Jofre <rel> /sports/boxer/weight_division <oe>Featherweight,which weight division does Éder jofre box in
+791,<se> Cobb <rel> /location/location/people_born_here <oe>Jayne Ann Krentz,who was born in cobb?
+792,<se> Coba <rel> /location/location/containedby <oe>Quintana Roo,Which state is coba located in?
+793,<se> Thriller <rel> /media_common/netflix_genre/titles <oe>The Mystery of the Marie Celeste,name a netflix title from the thriller genre.
+794,<se> Mintz <rel> /location/location/containedby <oe>North Carolina,what US state is mintz within
+795,<se> William Henry Willimon <rel> /book/author/works_written <oe>Acts,what is written by william willimon?
+796,<se> Kathie Sullivan <rel> /people/person/gender <oe>Female,What is the gender of kathie sullivan?
+797,<se> Plenty <rel> /film/film/language <oe>English language,what language is spoken in plenty (film)?
+798,<se> Battle of Suthul <rel> /time/event/locations <oe>Numidia,what ancient kingdom did the battle of suthul take place
+799,<se> Australia <rel> /location/location/contains <oe>The Dales,What's a wetland site located in australia
+800,<se> Bigg Boss <rel> /tv/tv_program/seasons <oe>Bigg Boss - Season 3,what is a season of bigg boss (indian tv series)
+801,<se> Asteroid <rel> /astronomy/celestial_object_category/objects <oe>21586 Pourkaviani,"Name an asteroid discovered on September 26, 19998"
+802,<se> Portrait of a Seated Woman <rel> /visual_art/artwork/media <oe>Oil paint,whats the media of  portrait of a seated woman
+803,<se> Speculative fiction <rel> /media_common/literary_genre/books_in_this_genre <oe>The Jehovah Contract,What is the name of a book of the speculative fiction literary genre?
+804,<se> Katharina Althaus <rel> /people/person/ethnicity <oe>Germans,what ethnicity is katharina althaus?
+805,<se> The Number 23 <rel> /film/film/executive_produced_by <oe>Mike Drake,Who was the executive producer of the number 23?
+806,<se> Bretons <rel> /people/ethnicity/people <oe>Robert Surcouf,Name one of the breton people
+807,<se> Katie Barber <rel> /people/person/gender <oe>Female,What is the gender of katie barber?
+808,<se> Cos'e quel stupore? <rel> /music/recording/artist <oe>Wolfgang Amadeus Mozart,who is the artist that released the recording cos'e quel stupore?
+809,<se> The Autobiography of Alice B. Toklas <rel> /book/book/genre <oe>Biography,what book type is the autobiography of alice b. toklas
+810,<se> Gilberto Gil <rel> /people/person/nationality <oe>Brazil,What is gilberto gil's nationality
+811,<se> Sylvia Lance Harper <rel> /people/person/place_of_birth <oe>Australia,where was sylvia lance harper born 
+812,<se> Kovas <rel> /music/artist/genre <oe>Pop music,what genre is the artist kovas under?
+813,<se> Only The Lonely - The Roy Orbison Story <rel> /theater/play/lyricist <oe>Roy Orbison,Who was the lyricist for the play only the lonely - the roy orbison story?
+814,<se> Black Arrow <rel> /film/film/genre <oe>Black and white,What kind of a film is black arrow
+815,<se> Colors <rel> /music/single/versions <oe>Colors,what is the version of the single colors?
+816,<se> Petter Belsvik <rel> /soccer/football_player/position_s <oe>Forward,what football position is petter belsvik best known for
+817,<se> Bubble Bobble Plus! <rel> /cvg/computer_videogame/publisher <oe>Taito,what company made bubble bobble plus!?
+818,<se> The Path of Loneliness <rel> /book/written_work/subjects <oe>Philosophy,what is the subject of the written piece the path of loneliness
+819,<se> Apartment Zero <rel> /film/film/written_by <oe>David Koepp,who was the author of apartment zero
+820,<se> Over 21 <rel> /film/film/directed_by <oe>Charles Vidor,who was the director of over 21
+821,<se> Demetri Martin <rel> /influence/influence_node/influenced_by <oe>Emo Philips,which comedian influenced demetri martin
+822,<se> 8872 Ebenum <rel> /astronomy/astronomical_discovery/discovery_site <oe>La Silla Observatory,At what site was 8872 ebenum discovered?
+823,<se> Riley James Ferguson <rel> /people/person/gender <oe>Male,What is the gender of riley james ferguson?
+824,<se> Dan Abrams <rel> /people/person/parents <oe>Floyd Abrams,who are dan abrams's parents
+825,<se> San Antonio <rel> /location/location/people_born_here <oe>Warren Kole,which television actor was born in san antonio?
+826,<se> Ohio <rel> /location/location/people_born_here <oe>Talia Botone,who was born in ohio
+827,<se> Battle of Eretria <rel> /base/culturalevent/event/entity_involved <oe>Sparta,who was involved in battle of eretria
+828,<se> Bloodfist <rel> /film/film/language <oe>English language,in what language is bloodfist spoken
+829,<se> Deepsky <rel> /music/artist/genre <oe>Electronica,what is the genre in which deepsky performs
+830,<se> Billy Fitchford <rel> /people/person/place_of_birth <oe>Wolstanton,where was billy fitchford born?
+831,<se> Lao language <rel> /language/human_language/language_family <oe>Tai languages,What language family does lao language belong to?
+832,<se> Here Without You <rel> /music/composition/language <oe>English language,what language is here without you composed in
+833,<se> Sebastian Pfaffenbichler <rel> /film/cinematographer/film <oe>Spain,what film was sebastian pfaffenbichler the cinematographer of 
+834,<se> Paul Overstreet <rel> /people/person/children <oe>Nash Overstreet,what is the name of one of paul overstreet's children
+835,<se> Orry-Kelly <rel> /film/film_costumer_designer/costume_design_for_film <oe>Massacre,what film was orry-kelly a costume designer for?
+836,<se> Black and White Live Bundle #3 <rel> /music/album/release_type <oe>Album,what is black and white live bundle #3
+837,<se> Canti randagi 2 <rel> /music/album/album_content_type <oe>Compilation album,what kind of album is canti randagi 2
+838,<se> Péter Kornai <rel> /people/person/place_of_birth <oe>Budapest,where was péter kornai born
+839,<se> 35 mm movie film <rel> /film/film_format/film_format <oe>Nightangel,what film has a 35 mm film format 
+840,<se> James Ewing <rel> /people/deceased_person/place_of_death <oe>York,where was james ewing's place of death
+841,<se> Astronaut <rel> /people/profession/people_with_this_profession <oe>Alfred Worden,name a professional astronaut.
+842,<se> Shawn Mullins <rel> /music/artist/album <oe>Honeydew,what is an album by shawn mullins 
+843,<se> Plaga Zombie <rel> /media_common/netflix_title/netflix_genres <oe>Argentina,which netflix genre is plaga zombie under
+844,<se> Ahmed Mubarak Al-Mahaijri <rel> /people/person/place_of_birth <oe>Oman,What is the birth location of ahmed mubarak al mahaijri?
+845,<se> Elodia <rel> /music/album/release_type <oe>Album,what format was elodia released in
+846,<se> Monster Mash <rel> /film/film/music <oe>Jeffrey Zahn,which musician composed for monster mash (1995 film)
+847,<se> Saint <rel> /book/book/genre <oe>Fiction,What type of book is the saint novel?
+848,<se> University Park <rel> /location/location/people_born_here <oe>Keith Rucker,which person was born in university park
+849,<se> New Bedford <rel> /location/location/people_born_here <oe>Ernest C. Torres,"who was a US federal judge born in new bedford, massachusetts"
+850,<se> The story of the Minack chronicles <rel> /book/book/genre <oe>Fiction,the story of the minack chronicles is classified as what type of genre
+851,<se> Wormwood Hill <rel> /location/location/containedby <oe>Connecticut,which state on the easetern seaboard is wormwood hill in
+852,<se> Christopher Chenery <rel> /base/thoroughbredracing/thoroughbred_racehorse_breeder/horses_bred <oe>Secretariat,which famous racehorse that christopher chenery bred?
+853,<se> Andrejs Pumpurs <rel> /people/deceased_person/place_of_death <oe>Riga,which latvian city did andrejs pumpurs die in
+854,<se> The Terror State <rel> /music/album/genre <oe>Punk rock,is the terror state punk rock or classical
+855,<se> Monster Movie <rel> /music/artist/genre <oe>Indie rock,what kind of music does monster movie (band) perform
+856,<se> Harry Barton <rel> /baseball/baseball_player/position_s <oe>Catcher,What position did the baseball player harry barton play
+857,<se> Get In The Ring <rel> /music/album/release_type <oe>Album,What is the release typ eof the album get in the ring?\\
+858,<se> Duke Aiona <rel> /people/person/place_of_birth <oe>Honolulu,What is the birth place of james aiona
+859,<se> Anatoly Vlasov <rel> /people/person/nationality <oe>Russia,what is the nationality of anatoly vlasov
+860,<se> The Bruce of Bannockburn <rel> /film/film/genre <oe>History,what type of movie is the bruce of bannockburn
+861,<se> Progressive rock <rel> /music/genre/albums <oe>Guitar Noir,Name a progressive rock album.
+862,<se> Saint Petersburg <rel> /location/location/people_born_here <oe>Andrey Illarionov,Who is a notable person that was born in saint petersburg
+863,<se> Tarzan <rel> /tv/tv_program/languages <oe>English language,what language is spoken in tarzan
+864,<se> Sandro Silvestri <rel> /people/person/gender <oe>Male,which gender is sandro silvestri
+865,<se> Bass guitar <rel> /music/instrument/instrumentalists <oe>Dave Luetkenhoelter,what person plays the bass guitar?
+866,<se> The Austere Academy <rel> /book/written_work/original_language <oe>English language,What was the original language of the written work the austere academy
+867,<se> Little Red Rooster <rel> /music/single/versions <oe>Little Red Rooster,What is the single little red rooster (feat. john sebastian) a version of?
+868,<se> Charles Momsen <rel> /people/deceased_person/place_of_burial <oe>Arlington National Cemetery,where was charles momsen buried
+869,<se> Dashiell Hammett <rel> /book/written_work/original_language <oe>English language,what language is dashiell hammett in
+870,<se> Forward <rel> /soccer/football_position/players <oe>Juan Mata,Who's a forward that plays for manchester united
+871,<se> Dominic Deutscher <rel> /people/person/nationality <oe>Australia,which country does dominic deutscher come from
+872,<se> René Monse <rel> /martial_arts/martial_artist/martial_art <oe>Boxing,what kind of martial art does rené monse perform
+873,"<se> Ulster County <rel> /location/location/contains <oe>New Paltz (village), New York","what is a city in ulster county, new york"
+874,<se> Montebello High School <rel> /education/school/lowest_grade_taught <oe>Ninth grade,what is the lowest grade taught in montebello high school?
+875,<se> Bangkok <rel> /music/single/versions <oe>Bangkok,What's a version of the bangkok single
+876,<se> Wilhelm Dörpfeld <rel> /people/person/nationality <oe>Germany,what country is wilhelm dörpfeld from
+877,<se> Bowman Lake <rel> /geography/lake/basin_countries <oe>United States,Where is bowman lake 
+878,<se> Decapitation <rel> /people/cause_of_death/people <oe>Hemming Gadh,Who is somebody that died from decapitation
+879,<se> Wandsbek <rel> /location/location/containedby <oe>Germany,what country is wandsbek in?
+880,<se> Triumph of the Will <rel> /film/film/country <oe>Germany,what country is the film  triumph of the will from
+881,<se> Flagler County <rel> /location/us_county/hud_county_place <oe>Bunnell,which city is placed in flagler county
+882,<se> Angizia <rel> /music/artist/genre <oe>Gothic metal,The artist angizia does what type of music
+883,<se> Mary Elizabeth Pruett Farrington <rel> /people/deceased_person/place_of_death <oe>Honolulu,Where did elizabeth p. farrington die
+884,<se> Chicago <rel> /location/location/people_born_here <oe>Jon Hager,what male actor was born in chicago
+885,<se> Opening Day of Close-Up <rel> /film/film/written_by <oe>Nanni Moretti,Who wrote opening day of close-up?
+886,<se> Ash <rel> /music/artist/track <oe>Seattle,Name a popular track from the artist ash
+887,<se> Another Bullshit Night in Suck City <rel> /book/written_work/subjects <oe>Family,what is the subject of the book another bullshit night in suck city
+888,<se> Ferenc Sas <rel> /people/person/place_of_birth <oe>Budapest,What city was ferenc sas's place of birth?
+889,<se> Nebraska Highway 70 <rel> /transportation/road/major_cities <oe>Westerville,what major city does nebraska highway 70 pass through
+890,<se> Carnatic music <rel> /music/genre/artists <oe>P. Susheela,what is the name of a Indian carnatic music singer
+891,<se> Charles R. Moore <rel> /people/person/gender <oe>Male,is charles r. moore a male or female
+892,"<se> Tramp, Tramp, Tramp <rel> /film/film/genre <oe>Black and white","What kind of film is tramp, tramp, tramp?"
+893,<se> Hercules in New York <rel> /film/film/country <oe>United States,Which nation filmed hercules in new york
+894,<se> The King &amp; the Commissioner <rel> /film/film/directed_by <oe>Shaji Kailas,Who directed the movie the king & the commissioner?
+895,<se> Rafael Sorkin <rel> /people/person/nationality <oe>United States,what country is rafael sorkin from
+896,<se> Bitter Moon <rel> /film/film/language <oe>German language,what language is the movie bitter moon in?
+897,<se> LGBT <rel> /film/film_genre/films_in_this_genre <oe>Act Up Oral History Project Series,which lgbt films were directed by jim hubbard?
+898,<se> William Paley <rel> /influence/influence_node/influenced_by <oe>John Hunter,What surgeon influenced william paley
+899,<se> Jordan <rel> /location/location/contains <oe>Mount Zion,what hill is located in jordan
+900,<se> Outward bound <rel> /book/book/genre <oe>Speculative fiction,What genre is outward bound
+901,<se> Kroy Biermann <rel> /people/person/nationality <oe>United States,What is kroy biermann's nationality?
+902,<se> Walter Neumann-Silkow <rel> /military/military_person/participated_in_conflicts <oe>World War II,in which major conflict did walter neumann-silkow participate
+903,<se> Frovatriptan <rel> /medicine/drug_ingredient/active_moiety_of_drug <oe>Frovatriptan succinate,what is the active moiety in the drug frovatriptan
+904,<se> Fred Claus <rel> /film/film/language <oe>English language,is fred claus in the english language or french
+905,<se> United States <rel> /location/country/second_level_divisions <oe>Cameron County,what is the name of a county in the united states
+906,<se> Fiction <rel> /media_common/literary_genre/books_in_this_genre <oe>It's In His Kiss,what is a book in the fiction genre?
+907,<se> Sweet Country <rel> /film/film/language <oe>English language,Which language was the film sweet country created in
+908,<se> Suicide <rel> /music/recording/artist <oe>Busy Bee Starski,Which artist recorded suicide?
+909,<se> Jim McLaughlin <rel> /soccer/football_player/position_s <oe>Forward,what positions has jim mclaughlin played 
+910,<se> Manx cat <rel> /biology/organism_classification/higher_classification <oe>Cat,What type of animal is a manx
+911,<se> Asambhav <rel> /music/album/genre <oe>Soundtrack,what genre is asambhav
+912,<se> Lower Buckhorn Lake <rel> /geography/lake/outflow <oe>Stony Lake,Which lake does lower buckhorn lake flow into?
+913,<se> Antoine Préget <rel> /people/person/nationality <oe>France,What is the nationality of antoine préget?
+914,<se> Jeffrey Hatrix <rel> /music/artist/genre <oe>Nu metal,what style of music does mrhjeffreynothing perform
+915,<se> Prince Edward Island <rel> /location/location/contains <oe>Montague,what's a town that's on prince edward island
+916,<se> Central High School <rel> /education/educational_institution/school_type <oe>Secondary school,what type of school is central high school
+917,<se> Electronica <rel> /music/genre/albums <oe>Alteration,which electronica albums were produced by altera enigma?
+918,<se> Battle of Najaf <rel> /base/culturalevent/event/entity_involved <oe>101st Airborne Division,what airborne division was involved in  battle of najaf
+919,<se> James Freud <rel> /people/deceased_person/cause_of_death <oe>Suicide,what did james freud die from?
+920,<se> YouInSeries <rel> /music/artist/label <oe>Equal Vision Records,Who is youinseries' record label?
+921,<se> Mountain Time Zone <rel> /time/time_zone/locations_in_this_time_zone <oe>Arthur,which village is located in the mountain time zone
+922,<se> Space rock <rel> /music/genre/albums <oe>Acupuncture,what is a space rock album?
+923,<se> A Boy's Life <rel> /film/film/genre <oe>Science fiction,which genre is a boy's life 
+924,<se> Lyudmila Pavlichenko <rel> /military/military_person/participated_in_conflicts <oe>World War II,what world war was lyudmila pavlichenko involved in
+925,<se> Tuxedomoon <rel> /music/artist/album <oe>Ten Years in One Night,what album did the artist tuxedomoon make
+926,<se> Without Limits <rel> /film/film/produced_by <oe>Tom Cruise,who produced without limits
+927,<se> Fairwood Hills <rel> /location/location/containedby <oe>United States,what country contains fairwood hills
+928,<se> Album <rel> /music/album_release_type/albums <oe>Birmingham,What is the name of a music album?
+929,<se> Soul Caddy <rel> /music/album/genre <oe>Ska,What music genre is soul caddy under?
+930,<se> Joshua <rel> /music/recording/artist <oe>Insolence,What artist recorded joshua?
+931,<se> Futures <rel> /music/album/genre <oe>Power pop,What genre is the album futures?
+932,<se> Tribal chief <rel> /fictional_universe/character_occupation/characters_with_this_occupation <oe>Winnetou,which karl may characters was a tribal chief?
+933,<se> RCA Records <rel> /music/record_label/artist <oe>Zarif,What artists are signed to rca records?
+934,<se> The Velvet Underground <rel> /music/artist/track <oe>I'm Waiting for the Man (mono),what is a song by the velvet underground
+935,<se> Charles Scott Sherrington <rel> /influence/influence_node/influenced <oe>Ragnar Granit,who impacted the work of charles scott sherrington
+936,<se> Asteroid <rel> /astronomy/celestial_object_category/objects <oe>10764 Rübezahl,What is the name of a known asteroid
+937,<se> Here She Comes Now <rel> /music/composition/composer <oe>John Cale,Who wrote here she comes now?
+938,<se> Léon Blum <rel> /organization/organization_founder/organizations_founded <oe>European Movement International,what organization has léon blum made?
+939,"<se> Mott, Hay and Anderson <rel> /architecture/architecture_firm/projects <oe>London Bridge","what project did mott, hay and anderson complete"
+940,<se> Jason London <rel> /people/person/parents <oe>Debbie Osborn,who is the parent of jason london?
+941,<se> Kemet High Tech. Part II: History Illusions <rel> /music/album/release_type <oe>Album,What type of release was kemet high tech. part ii: history illusions?
+942,<se> Portrait of John Wilkes Booth <rel> /visual_art/artwork/art_form <oe>Photography,what art form describes portrait of john wilkes booth
+943,<se> William Nelson <rel> /people/deceased_person/cause_of_death <oe>Murder,what caused william bull nelson's death
+944,<se> Peabody Essex Museum <rel> /travel/tourist_attraction/near_travel_destination <oe>Salem,which city is near the peabody essex museum
+945,<se> Black and white <rel> /film/film_genre/films_in_this_genre <oe>Roar of the Iron Horse,WHat's an example of a black-and-white film
+946,<se> Polly and the Billets Doux <rel> /music/artist/genre <oe>Americana,what kind of music does polly and the billets doux make?
+947,<se> William Bigelow <rel> /people/person/gender <oe>Male,what gender is william bigelow?
+948,<se> Salim <rel> /film/film/language <oe>Tamil language,in what language was salim the film in
+949,<se> City <rel> /music/album/genre <oe>Industrial metal,What genre is city
+950,<se> Vancouver <rel> /location/location/people_born_here <oe>John Malinosky,Name someone who was born in vancouver
+951,<se> Belchamp Otten <rel> /location/location/containedby <oe>Braintree District,which district in essex is belchamp otten in
+952,<se> Costa Rica <rel> /location/location/people_born_here <oe>Rónald Marín,Name a notable figure born in costa rica
+953,<se> Korean War <rel> /military/military_conflict/military_personnel_involved <oe>James Dickey,which military personnel was involved in the korean war
+954,<se> Howard Johnson <rel> /people/person/gender <oe>Male,What is howard johnson's sex
+955,<se> Treasure Lake <rel> /location/hud_county_place/county <oe>Clearfield County,what country is treasure lake located?
+956,<se> Native Americans in the United States <rel> /people/ethnicity/people <oe>Aaliyah,which singer has native americans in the united states ethnicity 
+957,<se> Macintosh <rel> /computer/computer/includes_models <oe>Macintosh SE,What is a macintosh computer?
+958,<se> Alan Thompson <rel> /people/person/place_of_birth <oe>Newcastle upon Tyne,where was alan thompson born?
+959,<se> Album <rel> /music/album_release_type/albums <oe>Ultimate Brahms: The Essential Masterpieces,what is a compilation album
+960,<se> Bringing Back The Dodo <rel> /book/written_work/subjects <oe>Evolution,what is bringing back the dodo about
+961,<se> Kenzo Taniguchi <rel> /people/person/nationality <oe>Japan,of what nationality is kenzo taniguchi
+962,<se> Jay Robert Nash <rel> /people/person/nationality <oe>United States,what country is jay robert nash from
+963,<se> Henry Stephens Salt <rel> /people/person/religion <oe>Atheism,what is henry stephens salt's religion
+964,<se> Jeremiah Theus <rel> /people/person/place_of_birth <oe>Chur,Where was the place of birth of jeremiah theus
+965,<se> Rocktober Blood <rel> /film/film/directed_by <oe>Beverly Sebastian,Who directed rocktober blood?
+966,"<se> Mount Grant, South Georgia <rel> /location/location/containedby <oe>United Kingdom, with Dependencies and Territories",What country is Mount Grant in South Georgia located?
+967,<se> Hammond-Harwood House <rel> /location/location/containedby <oe>Anne Arundel County,Which county contains the hammond-harwood house?
+968,<se> Animal Instinct <rel> /music/album/release_type <oe>Album,what format was animal instinct released as
+969,<se> NBA Live 08 <rel> /cvg/computer_videogame/cvg_genre <oe>Basketball,What game genre best describes nba live 08
+970,<se> Nachtschicht - Ich habe Angst <rel> /film/film/country <oe>Germany,Where did nachtschicht - ich habe angst come from
+971,<se> Per Saari <rel> /film/producer/films_executive_produced <oe>Monte Carlo,per saari has been the executive producer of what film?
+972,<se> The secret room <rel> /book/written_work/subjects <oe>History,what is the secret room about 
+973,<se> (10020) 1979 OQ5 <rel> /astronomy/orbital_relationship/orbits <oe>Sun,What does (10020) 1979 oq5 orbit?
+974,<se> Bob Kortman <rel> /people/person/nationality <oe>United States,what country is bob kortman from
+975,<se> Beat 'em up <rel> /cvg/cvg_genre/games <oe>Double Dragon,what is the name of a video game of the beat em up collection
+976,<se> Gene Hoglan <rel> /music/group_member/instruments_played <oe>Drum,what music instrument is played by gene hoglan
+977,<se> Wonder Woman <rel> /music/recording/artist <oe>Allen Toussaint,What musician recorded wonder woman
+978,<se> The Gospel According to St. Matthew <rel> /film/film/country <oe>Italy,which country was the gospel according to st. matthew filmed in
+979,<se> DaQuan Barnes <rel> /people/person/place_of_birth <oe>Wilmington,Where was daquan barnes born
+980,<se> South Uist <rel> /location/location/containedby <oe>Na h-Eileanan an Iar,Where can south uist be found?
+981,<se> Proud To Be Loud <rel> /music/album/genre <oe>Glam metal,what kind of music is proud to be loud
+982,<se> Fopp <rel> /music/album/genre <oe>Grunge,which genre is the album fopp
+983,<se> Pim Fortuyn List <rel> /government/political_party/ideology <oe>Republicanism,what ideology does the pim fortuyn list follow
+984,<se> South by Java Head <rel> /book/written_work/subjects <oe>World War II,what is south by java head about 
+985,<se> Synners <rel> /book/written_work/author <oe>Pat Cadigan,Who is the author that wrote synners
+986,<se> Bent County <rel> /symbols/namesake/named_after <oe>William Bent,who was bent county named after?
+987,<se> South Florence <rel> /location/location/containedby <oe>Alabama,Where is south florence
+988,<se> Stuart Beedie <rel> /people/person/place_of_birth <oe>Aberdeen,Where is Stuart Beedie born?
+989,<se> Tuscaloosa County <rel> /location/us_county/county_seat <oe>Tuscaloosa,which is the county seat of tuscaloosa county?
+990,<se> 55701 Ukalegon <rel> /astronomy/asteroid/member_of_asteroid_group <oe>Jupiter trojan,what asteroid group is 55701 ukalegon a member of
+991,<se> The Ark of the Sun God <rel> /film/film/country <oe>Italy,what country is the film  the ark of the sun god from
+992,<se> Maniac Cop 2 <rel> /film/film/production_companies <oe>Regency Enterprises,which production company helped film maniac cop 2?
+993,<se> Brandeis University <rel> /education/educational_institution/school_type <oe>University,What type of school is brandeis university?
+994,<se> Fugue <rel> /film/film/country <oe>Switzerland,which european country is fugue filmed in?
+995,<se> Grzegorz Turnau <rel> /people/person/gender <oe>Male,what is the gender of grzegorz turnau
+996,<se> The Jesus and Mary Chain <rel> /music/artist/genre <oe>Post-punk,what genre is the jesus and mary chain
+997,"<se> Mehrab Hossain, Jr. <rel> /people/person/gender <oe>Male","what is mehrab hossain, jr.'s gender"
+998,<se> Green River Ordinance <rel> /music/artist/track <oe>Baby,what track is by green river ordinance?
+999,<se> The Rocketboys <rel> /music/artist/origin <oe>Austin,where in texas did the rocketboys come from?
